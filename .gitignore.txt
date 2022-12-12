@@ -1,0 +1,8 @@
+# Compiled source #
+###################
+*.exe
+
+
+# Personal #
+###################
+Atoms & Molecules/12. Personal

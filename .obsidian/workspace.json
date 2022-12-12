@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "3744a1d079dcd3fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83c3d1f629e050d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cd360857920ce58",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "2b7add7c9cde8ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/General Probability Qns (C).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b83fc1503607a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4551eb40d0295d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9b8e4cdfbbaaa28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69347d1eebf58c78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Incom",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "2468ce0511ed177b",
+    "type": "split",
+    "children": [
+      {
+        "id": "26ab67a274d01c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58854ce224b4028a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/General Probability Qns (C).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74ae1af11006fc99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/General Probability Qns (C).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5,
+    "collapsed": true
+  },
+  "active": "2b7add7c9cde8ab5",
+  "lastOpenFiles": [
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Combinatorics Qns (C).md",
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/General Probability Qns (C).md",
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Coin Toss & Recursion Qns (C).md",
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Pure Logic Qns (CZ).md",
+    "Atoms & Molecules/4. Statistics/Classical Statistics/Inclusion-Exclusion Principle (B).md",
+    "Atoms & Molecules/4. Statistics/Classical Statistics/Randomness & Counting (B).md",
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/(Conditional) Probability & Bayes Theorem Qns (C).md",
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Expected Value-Strategy Game Qns (C).md",
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Numerical Pattern Questions (CZ).md",
+    "Atoms & Molecules/13. Personal/Facehacking/Facial Bone Growth Conjecture (Mewing).md"
+  ]
+}

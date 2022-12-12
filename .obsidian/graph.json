@@ -1,0 +1,114 @@
+{
+  "collapse-filter": false,
+  "search": "-path: _templates -path: Authors ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#inprogress",
+      "color": {
+        "a": 1,
+        "rgb": 15501909
+      }
+    },
+    {
+      "query": "#transition",
+      "color": {
+        "a": 1,
+        "rgb": 9426325
+      }
+    },
+    {
+      "query": "#special",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "#keyatom",
+      "color": {
+        "a": 1,
+        "rgb": 15961309
+      }
+    },
+    {
+      "query": "#incomplete",
+      "color": {
+        "a": 1,
+        "rgb": 6060031
+      }
+    },
+    {
+      "query": "#exploratory",
+      "color": {
+        "a": 1,
+        "rgb": 16606082
+      }
+    },
+    {
+      "query": "#basic",
+      "color": {
+        "a": 1,
+        "rgb": 16470147
+      }
+    },
+    {
+      "query": "#moderate",
+      "color": {
+        "a": 1,
+        "rgb": 12648871
+      }
+    },
+    {
+      "query": "#good",
+      "color": {
+        "a": 1,
+        "rgb": 16711867
+      }
+    },
+    {
+      "query": "#atom",
+      "color": {
+        "a": 1,
+        "rgb": 16736641
+      }
+    },
+    {
+      "query": "#topic",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "#subtopic",
+      "color": {
+        "a": 1,
+        "rgb": 57855
+      }
+    },
+    {
+      "query": "#subsubtopic",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.661458333333333,
+  "lineSizeMultiplier": 1.62297297297297,
+  "collapse-forces": false,
+  "centerStrength": 0.340540540540541,
+  "repelStrength": 8.95833333333333,
+  "linkStrength": 1,
+  "linkDistance": 137,
+  "scale": 1.4769860980686635,
+  "close": true
+}

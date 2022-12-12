@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "baseFontSize": 13,
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "center_image_minimal"
+  ],
+  "accentColor": ""
+}

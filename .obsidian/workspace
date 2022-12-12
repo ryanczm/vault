@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "3744a1d079dcd3fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebc90d56cc51f1a5",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "a998a7543a59a303",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Atoms & Molecules/13. Personal/Metacognition/Floorball.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b83fc1503607a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4551eb40d0295d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9b8e4cdfbbaaa28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69347d1eebf58c78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Exploratory",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405
+  },
+  "right": {
+    "id": "2468ce0511ed177b",
+    "type": "split",
+    "children": [
+      {
+        "id": "26ab67a274d01c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec92a0d0f92bead",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "58854ce224b4028a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atoms & Molecules/13. Personal/Metacognition/Floorball.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74ae1af11006fc99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atoms & Molecules/13. Personal/Metacognition/Floorball.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5,
+    "collapsed": true
+  },
+  "active": "a998a7543a59a303",
+  "lastOpenFiles": [
+    "Topics/Sub(sub)topics/Compilers & Interpreters.md",
+    "Atoms & Molecules/13. Personal/Metacognition/Floorball.md",
+    "Atoms & Molecules/1. Computer Science/Fundamentals/Compilers & Interpreters/Overview of Compilation.md",
+    "Topics/Sub(sub)topics/CS Fundamentals.md",
+    "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Factors.md",
+    "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Portfolio Variance.md",
+    "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Fama-French.md",
+    "Atoms & Molecules/8. Quant/Financial Time Series Concepts/MPT.md",
+    "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Single-Index Model.md",
+    "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Price (Market) Data (N).md"
+  ]
+}

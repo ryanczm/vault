@@ -1,0 +1,4190 @@
+{
+  "nodePositions": [
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/Advanced Data Structures (C).md",
+      "x": -1267.4814453125,
+      "y": -1828.852294921875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/Advanced Design & Analysis Techniques (C).md",
+      "x": -1482.406005859375,
+      "y": -1791.4329833984375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/DS&A Practice.md",
+      "x": -1585.1136474609375,
+      "y": -1580.20556640625
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/Data Structures (C).md",
+      "x": -1213.3935546875,
+      "y": -1617.55859375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/Graph Algorithms (C).md",
+      "x": -1308.958251953125,
+      "y": -1550.1993408203125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/Hackerrank 3 Months Prep Kit.md",
+      "x": -1454.4310302734375,
+      "y": -1498.608642578125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/Intro to Data Structures & Algos (CLRS).md",
+      "x": -1380.9051513671875,
+      "y": -1690.4393310546875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/Selected Topics (C).md",
+      "x": -1380.76904296875,
+      "y": -1853.028076171875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Algorithms & Data Structures/Sorting & Order Statistics (C).md",
+      "x": -1204.432373046875,
+      "y": -1733.30810546875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Computer Architecture/Architecture Basics (C).md",
+      "x": -1971.8394775390625,
+      "y": -2115.743408203125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Computer Architecture/Essentials of Computer Architecture (C).md",
+      "x": -1986.315673828125,
+      "y": -1955.4368896484375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Computer Architecture/Input & Output (C).md",
+      "x": -2085.629638671875,
+      "y": -2081.711181640625
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Computer Architecture/MIT 6.004 Computational Structures (T).md",
+      "x": -2209.4267578125,
+      "y": -1822.6397705078125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Computer Architecture/Memories (C).md",
+      "x": -2136.599853515625,
+      "y": -1973.70947265625
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Computer Architecture/Parallelism & Pipelining (C).md",
+      "x": -1866.163330078125,
+      "y": -2061.37646484375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Computer Architecture/Processors (C).md",
+      "x": -1832.33203125,
+      "y": -1946.73583984375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/B-Trees (P).md",
+      "x": -3368.611328125,
+      "y": -1622.945068359375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/DBMS Basics (P).md",
+      "x": -3390.345947265625,
+      "y": -1507.62060546875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Data Models & Query Languages (K).md",
+      "x": -2945.4189453125,
+      "y": -2240.312255859375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Data, Databases, Distributed Systems.md",
+      "x": -2560.912353515625,
+      "y": -1690.213134765625
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Database Internals (P).md",
+      "x": -2932.122802734375,
+      "y": -1617.5322265625
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Designing Data Intensive Apps (K).md",
+      "x": -2677.569091796875,
+      "y": -1977.07958984375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Distributed Systems (K).md",
+      "x": -2657.281005859375,
+      "y": -2191.237548828125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Distributed Systems (P).md",
+      "x": -3065.4208984375,
+      "y": -1684.541015625
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Encoding & Evolution (K).md",
+      "x": -3034.795654296875,
+      "y": -2160.983154296875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Failure, Consistency & Consensus (K).md",
+      "x": -2509.37451171875,
+      "y": -2216.4658203125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/File Formats (P).md",
+      "x": -3274.405517578125,
+      "y": -1694.852294921875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/File Formats.md",
+      "x": -2801.0146484375,
+      "y": -1870.4754638671875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Files & Storage.md",
+      "x": -2699.469970703125,
+      "y": -1761.642578125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Foundations of Data Systems (K).md",
+      "x": -2887.51904296875,
+      "y": -2092.481201171875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Log-Structured Storage (P).md",
+      "x": -3325.229736328125,
+      "y": -1409.6153564453125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Partitioning (K).md",
+      "x": -2684.538330078125,
+      "y": -2350.9873046875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Replication (K).md",
+      "x": -2781.930419921875,
+      "y": -2282.189697265625
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Storage & Retrieval (K).md",
+      "x": -3035.014404296875,
+      "y": -2041.3426513671875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Storage Engines (P).md",
+      "x": -3221.75830078125,
+      "y": -1549.0322265625
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Storage Systems.md",
+      "x": -2848.515869140625,
+      "y": -1756.4910888671875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Transaction Processing & Recovery (P).md",
+      "x": -3206.949462890625,
+      "y": -1398.8770751953125
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Data, Databases & Distributed Systems/Transactions (K).md",
+      "x": -2569.283447265625,
+      "y": -2320.124755859375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Numerical Analysis/Numerical DiffEqs/Numerical Differential Equations.md",
+      "x": -1838.9913330078125,
+      "y": -1443.4896240234375
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Numerical Analysis/Numerical LinAlg/Numerical Linear Algebra.md",
+      "x": -1867.422119140625,
+      "y": -1327.0633544921875
+    },
+    {
+      "id": "Atoms & Molecules/1. Computer Science/Fundamentals/Numerical Analysis/Optimization/Optimization.md",
+      "x": -1972.719482421875,
+      "y": -1269.774658203125
+    },
+    {
+      "id": "Atoms & Molecules/12. Humanities/Economic History/Crises.md",
+      "x": 3478.16015625,
+      "y": -1354.92236328125
+    },
+    {
+      "id": "Atoms & Molecules/12. Humanities/Economic History/Market History.md",
+      "x": 3316.361083984375,
+      "y": -1288.418701171875
+    },
+    {
+      "id": "Atoms & Molecules/12. Humanities/History/18th Century.md",
+      "x": 3630.842041015625,
+      "y": -1120.5863037109375
+    },
+    {
+      "id": "Atoms & Molecules/12. Humanities/History/19th Century.md",
+      "x": 3416.89306640625,
+      "y": -922.5322265625
+    },
+    {
+      "id": "Atoms & Molecules/12. Humanities/History/20th Century.md",
+      "x": 3353.48046875,
+      "y": -1041.6964111328125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Fake Resume (BA SOC).md",
+      "x": -1553.5823974609375,
+      "y": 1474.5230712890625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Fake Resume (OG).md",
+      "x": -1697.709716796875,
+      "y": 1444.457763671875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Interview Knowledge (Q).md",
+      "x": -996.3486938476562,
+      "y": 1593.5814208984375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Job Strategy.md",
+      "x": -1470.6002197265625,
+      "y": 1688.9598388671875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Misc Apps.md",
+      "x": -1654.3194580078125,
+      "y": 1588.3841552734375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Online Search Strategy.md",
+      "x": -782.1353149414062,
+      "y": 1439.5145263671875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Past Coding Assessments.md",
+      "x": -737.4984741210938,
+      "y": 1579.8497314453125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Past Quant Experience (Q).md",
+      "x": -856.6587524414062,
+      "y": 1600.1773681640625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Past Quant Tests (Q).md",
+      "x": -932.0899658203125,
+      "y": 1750.8031005859375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Quant Job Strategy.md",
+      "x": -1237.3515625,
+      "y": 1615.0977783203125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Quant Knowledge Template.md",
+      "x": -1170.824951171875,
+      "y": 1741.7301025390625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Trinity Macro Fund Quant Test.md",
+      "x": -837.7723388671875,
+      "y": 1870.6761474609375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Virtu (Codility) Test.md",
+      "x": -624.4309692382812,
+      "y": 1684.153564453125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Apps/Worldquant (Hackerrank).md",
+      "x": -623.7733764648438,
+      "y": 1476.875732421875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Actors.md",
+      "x": -3033.220703125,
+      "y": -115.6296157836914
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Artists.md",
+      "x": -3136.830322265625,
+      "y": -175.77581787109375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Attractiveness Distribution.md",
+      "x": -3181.7548828125,
+      "y": 170.48318481445312
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Breathing Habits.md",
+      "x": -3309.322265625,
+      "y": 609.3191528320312
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Caloric Expenditure.md",
+      "x": -3501.39697265625,
+      "y": 850.2536010742188
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Claimingpower's Discovery.md",
+      "x": -2736.580078125,
+      "y": 194.89022827148438
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Content Structure.md",
+      "x": -2319.1533203125,
+      "y": 1421.9344482421875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Cultural Diets.md",
+      "x": -3703.99951171875,
+      "y": 515.0883178710938
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Diet Hardness.md",
+      "x": -3565.47314453125,
+      "y": 590.8159790039062
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Evolutionary Biology (FH).md",
+      "x": -2580.08935546875,
+      "y": 1215.854248046875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Exercise.md",
+      "x": -3651.275146484375,
+      "y": 841.2399291992188
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/FH Big Picture.md",
+      "x": -2447.1787109375,
+      "y": 1152.20947265625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/FH Video 2022.md",
+      "x": -2020.9404296875,
+      "y": 1270.16259765625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Facial Anatomy.md",
+      "x": -2794.10009765625,
+      "y": 1028.6536865234375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Facial Biomechanics (FH).md",
+      "x": -2614.9638671875,
+      "y": 1075.5880126953125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Facial Bone Growth Conjecture (Mewing).md",
+      "x": -2953.59765625,
+      "y": 973.7439575195312
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Factors Explaining Variation.md",
+      "x": -3406.561767578125,
+      "y": 718.048583984375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Fame and Lookism.md",
+      "x": -3152.5478515625,
+      "y": -18.585092544555664
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Female Mate Choice (!).md",
+      "x": -3392.078125,
+      "y": -35.27836990356445
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/G.L.A Empirical Evidence.md",
+      "x": -2641.069091796875,
+      "y": 588.2286376953125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/General Niceness.md",
+      "x": -3479.30712890625,
+      "y": 276.5316467285156
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Generalized Halo Effect.md",
+      "x": -3340.510498046875,
+      "y": 223.7804412841797
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Generalized Law of Attractiveness.md",
+      "x": -2767.872314453125,
+      "y": 659.5524291992188
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Height and Size.md",
+      "x": -3591.054931640625,
+      "y": 966.217529296875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Incels vs Chads.md",
+      "x": -3658.47705078125,
+      "y": -371.0749816894531
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Models.md",
+      "x": -3250.05859375,
+      "y": -136.5900115966797
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Online Dating 80-20 Effect.md",
+      "x": -3514.2109375,
+      "y": -378.9537353515625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Orthotropic Process.md",
+      "x": -3100.350830078125,
+      "y": 894.7269897460938
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Point Structure.md",
+      "x": -2349.64892578125,
+      "y": 1280.5709228515625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Racism.md",
+      "x": -3478.068115234375,
+      "y": 156.55010986328125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Random Preference.md",
+      "x": -3606.529541015625,
+      "y": 445.5728454589844
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/S.L.A Empirical Evidence.md",
+      "x": -2819.271728515625,
+      "y": 334.79718017578125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/S.L.A Nuances (Caveats).md",
+      "x": -2996.694580078125,
+      "y": 555.0514526367188
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Social Interactions & Attractiveness Laws (FH).md",
+      "x": -2594.55419921875,
+      "y": 901.4154052734375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Socioeconomic Conditions.md",
+      "x": -3710.980224609375,
+      "y": 634.657470703125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Specific Law of Attractiveness.md",
+      "x": -2953.949951171875,
+      "y": 419.9987487792969
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Success vs Failure in Dating.md",
+      "x": -3541.25048828125,
+      "y": -229.07850646972656
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/The First Theory (Maxilla).md",
+      "x": -2727.97021484375,
+      "y": 35.38409423828125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/The Second Theory (Jawline + Body).md",
+      "x": -2588.414306640625,
+      "y": 10.70673656463623
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Tiktok.md",
+      "x": -3010.8193359375,
+      "y": 23.0390682220459
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Variation in Facial Development.md",
+      "x": -3251.81396484375,
+      "y": 809.5610961914062
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Variation in the Manosphere.md",
+      "x": -3693.378662109375,
+      "y": -217.64183044433594
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Video Scripts.md",
+      "x": -2106.337890625,
+      "y": 1389.3182373046875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/WMAF Phenomena.md",
+      "x": -3544.322509765625,
+      "y": -47.27777862548828
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Facehacking/Wrongful Attribution.md",
+      "x": -3728.187255859375,
+      "y": -506.09466552734375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Accounts.md",
+      "x": -2193.927490234375,
+      "y": 2981.922119140625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Bumble.md",
+      "x": -2665.16064453125,
+      "y": 2751.406005859375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Dating App Setup.md",
+      "x": -2565.607177734375,
+      "y": 2634.63134765625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Logbook (Perf Eval).md",
+      "x": -2408.08447265625,
+      "y": 2792.626953125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Middle (30-40).md",
+      "x": -2176.67529296875,
+      "y": 3139.090576171875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Old (40-50).md",
+      "x": -2072.815185546875,
+      "y": 3079.57861328125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Pickup Logistics.md",
+      "x": -2469.4267578125,
+      "y": 2469.86181640625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Picture Sauces.md",
+      "x": -2339.5361328125,
+      "y": 2893.326416015625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Picture Sourcing.md",
+      "x": -2263.453857421875,
+      "y": 2764.1416015625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Project Whitefish (Dating Apps).md",
+      "x": -2346.705078125,
+      "y": 2547.620849609375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Public Pickup Procedure.md",
+      "x": -2114.22998046875,
+      "y": 2235.911865234375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Tinder Setup.md",
+      "x": -2716.6884765625,
+      "y": 2616.396728515625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Unethical Logistics.md",
+      "x": -2247.56787109375,
+      "y": 2328.370849609375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Girls/Young (20-29).md",
+      "x": -2290.33984375,
+      "y": 3101.1015625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Goals/Goals.md",
+      "x": -2066.396728515625,
+      "y": 1749.490234375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Goals/Note Taking.md",
+      "x": -1872.447509765625,
+      "y": 1940.601318359375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Goals/Obsidian Improvements.md",
+      "x": -1922.4178466796875,
+      "y": 1758.0758056640625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Alzheimer's.md",
+      "x": -1207.4573974609375,
+      "y": 2160.9599609375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Atherosclerotic Plague.md",
+      "x": -1382.0045166015625,
+      "y": 2829.442138671875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Blood Cancers.md",
+      "x": -1408.5972900390625,
+      "y": 3172.787353515625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Blood Diseases.md",
+      "x": -1641.7799072265625,
+      "y": 2638.709716796875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Blood Pressure.md",
+      "x": -1791.8077392578125,
+      "y": 2573.666748046875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Blood Sugar.md",
+      "x": -1633.1683349609375,
+      "y": 2815.281005859375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Brain Diseases.md",
+      "x": -1317.746337890625,
+      "y": 2286.60107421875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Breast Cancer.md",
+      "x": -1177.1343994140625,
+      "y": 3008.233642578125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/COPD.md",
+      "x": -1513.7470703125,
+      "y": 2160.61962890625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Cancer.md",
+      "x": -1319.2982177734375,
+      "y": 2941.3837890625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Chronic Kidney Disease.md",
+      "x": -1806.9232177734375,
+      "y": 2938.092041015625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Cold.md",
+      "x": -1123.261474609375,
+      "y": 2532.2021484375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Colorectal.md",
+      "x": -1072.6412353515625,
+      "y": 3316.3193359375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Coronary Artery Disease.md",
+      "x": -1279.5496826171875,
+      "y": 2721.055908203125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Diabetes.md",
+      "x": -1642.0760498046875,
+      "y": 2975.004150390625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Digestive Cancers.md",
+      "x": -1163.90234375,
+      "y": 3179.70654296875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Esophageal.md",
+      "x": -1012.0277709960938,
+      "y": 3213.129638671875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Food Poisoning.md",
+      "x": -1115.864501953125,
+      "y": 2412.736572265625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Heart Diseases.md",
+      "x": -1383.2164306640625,
+      "y": 2596.328125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Hypertension.md",
+      "x": -1940.6514892578125,
+      "y": 2559.27880859375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Infections.md",
+      "x": -1271.25,
+      "y": 2465.740478515625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Kidney Diseases.md",
+      "x": -1779.2955322265625,
+      "y": 2782.154296875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Kidney Stones.md",
+      "x": -1909.0919189453125,
+      "y": 2857.5654296875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Leukemia.md",
+      "x": -1508.4580078125,
+      "y": 3298.121337890625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Lung Cancer.md",
+      "x": -1169.3831787109375,
+      "y": 2888.85693359375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Lung Diseases.md",
+      "x": -1519.805419921875,
+      "y": 2315.726806640625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Myeloma.md",
+      "x": -1394.8134765625,
+      "y": 3336.00341796875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Pancreatic.md",
+      "x": -1189.9552001953125,
+      "y": 3339.08642578125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Parkinson's.md",
+      "x": -1322.5010986328125,
+      "y": 2129.65673828125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Prostate Cancer.md",
+      "x": -1304.3104248046875,
+      "y": 3088.7470703125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Health/Ailments/Stroke.md",
+      "x": -1157.268310546875,
+      "y": 2268.92919921875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Aural Intelligence.md",
+      "x": -2528.74560546875,
+      "y": 2142.59423828125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Deterministic Evidence.md",
+      "x": -3492.25634765625,
+      "y": 1310.592041015625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Deterministic Framework.md",
+      "x": -3388.731689453125,
+      "y": 1814.9503173828125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Emotional Intelligence (Fe).md",
+      "x": -2307.342041015625,
+      "y": 1746.386474609375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Empirical Evidence.md",
+      "x": -3501.7919921875,
+      "y": 1447.3184814453125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/FIFA.md",
+      "x": -2912.625244140625,
+      "y": 2364.439208984375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Floorball.md",
+      "x": -3011.59814453125,
+      "y": 2281.494140625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Football.md",
+      "x": -3007.721435546875,
+      "y": 2153.21337890625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Humanistic Evidence.md",
+      "x": -3373.5947265625,
+      "y": 1315.2401123046875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Humanistic Framework.md",
+      "x": -3332.3056640625,
+      "y": 1711.3900146484375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Kinesthetic Intelligence.md",
+      "x": -2711.6357421875,
+      "y": 2105.23681640625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Learning Process.md",
+      "x": -2949.631591796875,
+      "y": 1552.160400390625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Mental Intelligence.md",
+      "x": -2454.31201171875,
+      "y": 1760.748291015625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Metacognition Assumptions.md",
+      "x": -2781.609130859375,
+      "y": 1557.2833251953125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Metacognitive Framework.md",
+      "x": -2619.911865234375,
+      "y": 1640.1826171875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Metaframework.md",
+      "x": -3208.786865234375,
+      "y": 1773.4923095703125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Nature of Intelligence.md",
+      "x": -3482.142822265625,
+      "y": 1181.8226318359375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Phenomena.md",
+      "x": -3069.70361328125,
+      "y": 1673.8114013671875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Physical Intelligence (Se).md",
+      "x": -2511.93701171875,
+      "y": 1998.060302734375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Semideterministic Evidence.md",
+      "x": -3610.87548828125,
+      "y": 1305.996337890625
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Semideterministic Framework.md",
+      "x": -3274.572021484375,
+      "y": 1607.4232177734375
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Spatial Intelligence.md",
+      "x": -2633.247314453125,
+      "y": 1912.367919921875
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Specific Movements.md",
+      "x": -2870.43603515625,
+      "y": 2220.080078125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Specific Muscle Dev..md",
+      "x": -2837.1328125,
+      "y": 2022.2626953125
+    },
+    {
+      "id": "Atoms & Molecules/13. Personal/Metacognition/Visualization.md",
+      "x": -3449.3447265625,
+      "y": 1634.560791015625
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Abstract Algebra/Transition from Abstract Algebra.md",
+      "x": 551.5056762695312,
+      "y": -3388.671875
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Calculus/Calculus Fundamentals/Calculus Fundamentals.md",
+      "x": -15.58256721496582,
+      "y": -2620.844482421875
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Calculus/Calculus Fundamentals/Multivariable & Vector Calculus.md",
+      "x": -57.995819091796875,
+      "y": -2272.057861328125
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Calculus/Calculus Fundamentals/Transition from Calculus.md",
+      "x": -126.85542297363281,
+      "y": -2427.94873046875
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Calculus/Differential Equations/Ordinary Differential Equations.md",
+      "x": -286.3095397949219,
+      "y": -2461.22265625
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Calculus/Differential Equations/Partial Differential Equations.md",
+      "x": -572.2445678710938,
+      "y": -2558.37109375
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Calculus/Differential Equations/Transition from ODEs.md",
+      "x": -441.91510009765625,
+      "y": -2486.945068359375
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Calculus/Differential Equations/Transition from PDEs.md",
+      "x": -711.9889526367188,
+      "y": -2573.09814453125
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Calculus/Multivariable & Vector Calculus/Transition from Vector Calculus.md",
+      "x": -44.72475051879883,
+      "y": -2111.233642578125
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Differential Geometry/Differential Geometry.md",
+      "x": -81.91180419921875,
+      "y": -1970.79638671875
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Linear Algebra/Applied (Numerical Linear Algebra).md",
+      "x": 743.27490234375,
+      "y": -3305.54638671875
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Linear Algebra/Theoretical Linear Algebra.md",
+      "x": 785.8532104492188,
+      "y": -3194.37158203125
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Linear Algebra/Transition from Linear Algebra.md",
+      "x": 922.4760131835938,
+      "y": -3329.137939453125
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Measure Theory/Transition from Measure Theory.md",
+      "x": -677.998779296875,
+      "y": -2092.766357421875
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Real Analysis/Transition from Analysis.md",
+      "x": -384.427734375,
+      "y": -2130.85302734375
+    },
+    {
+      "id": "Atoms & Molecules/2. Mathematics/Topology/Transition from Topology.md",
+      "x": 338.5213928222656,
+      "y": -2762.849853515625
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/AutoML.md",
+      "x": -654.5599365234375,
+      "y": -361.7630615234375
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/Classical GPU Boosted (RAPIDS).md",
+      "x": -810.5696411132812,
+      "y": -678.6331176757812
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/Conventional Classical ML Libraries.md",
+      "x": -556.4638671875,
+      "y": -588.628173828125
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/Custom Estimators.md",
+      "x": -261.0382995605469,
+      "y": -806.0051879882812
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/Piplines & Composite Estimators.md",
+      "x": -176.581787109375,
+      "y": -664.0698852539062
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/autogluon.md",
+      "x": -540.947265625,
+      "y": -260.519287109375
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/category_encoders.md",
+      "x": -412.2874755859375,
+      "y": -537.8815307617188
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/cuDF.md",
+      "x": -813.0433959960938,
+      "y": -848.351318359375
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/cuML.md",
+      "x": -917.4567260742188,
+      "y": -791.4639282226562
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/cuPy.md",
+      "x": -705.788818359375,
+      "y": -797.3737182617188
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/lazypredict.md",
+      "x": -501.0040588378906,
+      "y": -373.56866455078125
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/scikit-multilearn.md",
+      "x": -451.45953369140625,
+      "y": -698.8627319335938
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/sklearn.md",
+      "x": -334.4132995605469,
+      "y": -670.0945434570312
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Classical ML Libraries/xgboost.md",
+      "x": -561.0656127929688,
+      "y": -746.6326293945312
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Retail Analytics/AB Testing.md",
+      "x": -1112.475341796875,
+      "y": -466.1662292480469
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Retail Analytics/Recommender Systems.md",
+      "x": -995.8101196289062,
+      "y": -432.6746826171875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/AdaBoost.md",
+      "x": -2057.237548828125,
+      "y": 930.5634155273438
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Bagging.md",
+      "x": -2007.8507080078125,
+      "y": 615.6205444335938
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Boosting.md",
+      "x": -1937.86328125,
+      "y": 834.8746337890625
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/CatBoost.md",
+      "x": -1923.1688232421875,
+      "y": 985.9275512695312
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Class Imbalance.md",
+      "x": -1841.013916015625,
+      "y": 190.71726989746094
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Classification Metrics.md",
+      "x": -1966.5152587890625,
+      "y": 109.09768676757812
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/D.T Algorithms.md",
+      "x": -1757.774169921875,
+      "y": 545.3987426757812
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Decision Criteria.md",
+      "x": -1378.2197265625,
+      "y": 1046.7607421875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Decision Node.md",
+      "x": -1532.19091796875,
+      "y": 750.9059448242188
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Decision Rule.md",
+      "x": -1449.8653564453125,
+      "y": 912.6068725585938
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Decision Tree.md",
+      "x": -1618.7315673828125,
+      "y": 577.080810546875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Ensemble (Tree).md",
+      "x": -1830.1256103515625,
+      "y": 680.338134765625
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Feature Encoding.md",
+      "x": -1756.86083984375,
+      "y": -76.9862060546875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Feature Selection.md",
+      "x": -1723.9749755859375,
+      "y": 216.9367218017578
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Fundamentals (Supervised).md",
+      "x": -1747.2298583984375,
+      "y": 70.74954986572266
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Gaussian Process.md",
+      "x": -1248.498779296875,
+      "y": 323.5076599121094
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Kernel Methods.md",
+      "x": -1364.1441650390625,
+      "y": 230.26776123046875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/LightGBM.md",
+      "x": -2089.039794921875,
+      "y": 806.787109375
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Model Calibration.md",
+      "x": -2098.646728515625,
+      "y": 204.58584594726562
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Prediction Intervals.md",
+      "x": -2079.973876953125,
+      "y": 70.9942855834961
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Random Forest.md",
+      "x": -2159.44873046875,
+      "y": 575.4223022460938
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Regression Metrics.md",
+      "x": -1930.78515625,
+      "y": -5.412008762359619
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/SVM.md",
+      "x": -1374.456298828125,
+      "y": 381.827392578125
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/Tree-Based Methods.md",
+      "x": -1537.7864990234375,
+      "y": 332.23504638671875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Supervised Learning/XGBoost.md",
+      "x": -1814.455078125,
+      "y": 924.027587890625
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Agglomerative Clustering.md",
+      "x": -1137.484619140625,
+      "y": 711.35205078125
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Centroid Initialization.md",
+      "x": -514.5004272460938,
+      "y": 1170.1649169921875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Clustering.md",
+      "x": -939.7573852539062,
+      "y": 451.9648742675781
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Dim. Reduction.md",
+      "x": -823.7971801757812,
+      "y": 122.96112823486328
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Distance Clustering.md",
+      "x": -873.637939453125,
+      "y": 731.8236083984375
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Gaussian MM.md",
+      "x": -674.342529296875,
+      "y": 633.0626220703125
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Graph Clustering.md",
+      "x": -780.421630859375,
+      "y": 412.62451171875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Hierarchical Clustering.md",
+      "x": -1054.4403076171875,
+      "y": 579.2501220703125
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/K-Means Algorithms.md",
+      "x": -617.8673706054688,
+      "y": 1054.8714599609375
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/K-Means Assumptions.md",
+      "x": -603.1975708007812,
+      "y": 913.9733276367188
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/K-Means.md",
+      "x": -754.6568603515625,
+      "y": 930.7089233398438
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/K-Medoids.md",
+      "x": -757.4320678710938,
+      "y": 1082.23388671875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/K-Modes.md",
+      "x": -951.9677734375,
+      "y": 890.9425659179688
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/K-Prototypes.md",
+      "x": -891.1487426757812,
+      "y": 1032.4337158203125
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/LLE.md",
+      "x": -549.35791015625,
+      "y": -12.235135078430176
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Manifold DimRed.md",
+      "x": -649.8170776367188,
+      "y": 100.60787200927734
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Mixture Models.md",
+      "x": -814.9370727539062,
+      "y": 563.6898803710938
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/Spectral Clustering.md",
+      "x": -627.5872802734375,
+      "y": 437.14129638671875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/UMAP.md",
+      "x": -547.7752075195312,
+      "y": 210.890869140625
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Classical/Unsupervised Learning/t-SNE.md",
+      "x": -497.00311279296875,
+      "y": 100.03771209716797
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Deep Learning Libraries/PyTorch.md",
+      "x": -1298.8624267578125,
+      "y": -1019.1581420898438
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Deep Learning Libraries/torch.md",
+      "x": -1178.2154541015625,
+      "y": -1117.3695068359375
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Deep Learning Libraries/torchtext.md",
+      "x": -1307.056640625,
+      "y": -1170.974365234375
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Deep Learning Libraries/torchvision.md",
+      "x": -1433.1693115234375,
+      "y": -1089.04296875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Natural Language Processing/Decoder-Based.md",
+      "x": -2238.91650390625,
+      "y": -340.1938781738281
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Natural Language Processing/Encoder-Based.md",
+      "x": -2132.643310546875,
+      "y": -286.3776550292969
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Natural Language Processing/HuggingFace (transformers).md",
+      "x": -1503.1002197265625,
+      "y": -905.7557373046875
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Natural Language Processing/LLM.md",
+      "x": -2099.05615234375,
+      "y": -433.2629089355469
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Natural Language Processing/NLP Architectures (HuggingFace Course).md",
+      "x": -1894.4207763671875,
+      "y": -508.7537536621094
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Natural Language Processing/Retrieval Based.md",
+      "x": -2186.202392578125,
+      "y": -552.5778198242188
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Natural Language Processing/Seq-2-Seq.md",
+      "x": -2258.68212890625,
+      "y": -457.2807312011719
+    },
+    {
+      "id": "Atoms & Molecules/3. Machine Learning/Deep Learning/Natural Language Processing/Transformer.md",
+      "x": -1949.887939453125,
+      "y": -646.2372436523438
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/(Common) Random Variables (Z).md",
+      "x": 680.3651733398438,
+      "y": -2500.518310546875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Combinatorics Fundamentals (B).md",
+      "x": 1332.21435546875,
+      "y": -2416.015380859375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Conditional Expectation (B).md",
+      "x": 1305.73095703125,
+      "y": -2777.114013671875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Conditional Probability (B).md",
+      "x": 1301.0858154296875,
+      "y": -2531.11767578125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Conditional Probability Fundamentals (Bayes' Rule, LOTP) (B).md",
+      "x": 1220.8927001953125,
+      "y": -2376.416259765625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Continuous RVs (W).md",
+      "x": 1749.268798828125,
+      "y": -3264.689697265625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Discrete RVs (W).md",
+      "x": 1612.7962646484375,
+      "y": -3283.761962890625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Estimation (W).md",
+      "x": 1600.1510009765625,
+      "y": -3030.79541015625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Expectation & Variance (B).md",
+      "x": 1038.7711181640625,
+      "y": -2588.0712890625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Hypothesis Testing (W).md",
+      "x": 1490.3743896484375,
+      "y": -2983.388671875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Introduction to Probability (B).md",
+      "x": 1220.176025390625,
+      "y": -2653.728271484375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/JS P&M E.gs.md",
+      "x": 1859.5367431640625,
+      "y": -2614.796142578125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Law of the Unconscious Statistician (B).md",
+      "x": 954.510986328125,
+      "y": -2448.982421875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Linear Transformations of Random Variables (B).md",
+      "x": 878.8643798828125,
+      "y": -2809.7646484375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Lognormal Random Variable (B).md",
+      "x": 397.8470153808594,
+      "y": -2283.556396484375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Market Making Basics (J).md",
+      "x": 1839.94482421875,
+      "y": -2732.926513671875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Mathematical Statistics (Wackerly).md",
+      "x": 1606.2200927734375,
+      "y": -2877.865966796875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Moment Generating Function (B).md",
+      "x": 1180.4766845703125,
+      "y": -2999.69189453125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Moments (B).md",
+      "x": 1185.024658203125,
+      "y": -2838.2041015625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Nonlinear Transformations (Functions) of Random Variables (B).md",
+      "x": 767.0751953125,
+      "y": -2708.140380859375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Normal Random Variable (B).md",
+      "x": 534.1633911132812,
+      "y": -2363.301513671875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Prob & Markets (JS).md",
+      "x": 1712.8111572265625,
+      "y": -2636.781982421875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Probability & Counting (B).md",
+      "x": 1176.980224609375,
+      "y": -2487.7177734375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Random Variables & their Distributions (B).md",
+      "x": 915.6187133789062,
+      "y": -2660.591796875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Random Variables (W).md",
+      "x": 1663.960693359375,
+      "y": -3132.024658203125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Randomness & Counting (B).md",
+      "x": 1081.94580078125,
+      "y": -2357.50439453125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Recursion (JS).md",
+      "x": 1732.3768310546875,
+      "y": -2785.365234375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Sampling & CLT (W).md",
+      "x": 1729.36767578125,
+      "y": -2975.1552734375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Uniform Random Variable (B).md",
+      "x": 527.2550048828125,
+      "y": -2495.611572265625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Classical Statistics/Variance (B).md",
+      "x": 883.8074951171875,
+      "y": -2545.12158203125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/Canonical Correlation Analysis.md",
+      "x": 2452.48828125,
+      "y": -1914.75634765625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/Cross-Decomposition Models.md",
+      "x": 2300.828857421875,
+      "y": -1874.1728515625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/Factor Analysis Assumptions.md",
+      "x": 2559.1923828125,
+      "y": -2376.551025390625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/Factor Analysis Fundamentals.md",
+      "x": 2468.8505859375,
+      "y": -2253.107177734375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/Factor Analysis Model.md",
+      "x": 2624.589111328125,
+      "y": -2266.605224609375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/Factor Analysis.md",
+      "x": 2305.359375,
+      "y": -2132.60302734375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/ICA (Independent Components).md",
+      "x": 2061.394287109375,
+      "y": -2057.926025390625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/Latent Variable Models (Dim. Red).md",
+      "x": 2176.044921875,
+      "y": -1974.8905029296875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/PCA (Principal Components).md",
+      "x": 2385.841552734375,
+      "y": -2017.437255859375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/PCA Fundamentals.md",
+      "x": 2612.231201171875,
+      "y": -2012.8043212890625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/PCA Model.md",
+      "x": 2771.698486328125,
+      "y": -1983.425048828125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Latent Variable Models/Partial Least Squares.md",
+      "x": 2439.248046875,
+      "y": -1796.1549072265625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Assumptions (OLS).md",
+      "x": 2394.849853515625,
+      "y": -2716.006591796875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Autocorrelation Tests.md",
+      "x": 2276.2666015625,
+      "y": -2972.327880859375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/C.o.D (R2) and Adj. R2.md",
+      "x": 3131.563232421875,
+      "y": -2381.41064453125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Cov. Matrix of Residuals.md",
+      "x": 3018.401123046875,
+      "y": -2166.535400390625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Cov. Matrix of β.md",
+      "x": 3241.96875,
+      "y": -1976.0006103515625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Estimation (OLS).md",
+      "x": 2604.1904296875,
+      "y": -2534.180419921875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Gauss-Markov Assumptions.md",
+      "x": 2404.533935546875,
+      "y": -2890.990478515625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Gauss-Markov Theorem.md",
+      "x": 2522.23486328125,
+      "y": -2979.96044921875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Homoskedasticity Tests.md",
+      "x": 2377.36572265625,
+      "y": -3041.131103515625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Linear Regression Model.md",
+      "x": 2838.6142578125,
+      "y": -2445.02197265625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/OLS Estimator (B).md",
+      "x": 3144.1767578125,
+      "y": -2146.41796875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/OLS.md",
+      "x": 2347.343994140625,
+      "y": -2522.154052734375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/R.S.S.md",
+      "x": 3004.992431640625,
+      "y": -2310.961669921875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Regression Splines.md",
+      "x": 2172.883544921875,
+      "y": -2449.73046875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Regularized Regression.md",
+      "x": 2057.81787109375,
+      "y": -2483.744384765625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/Sampling Distribution of β (T-Test).md",
+      "x": 3241.084716796875,
+      "y": -1822.3837890625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Linear Regression/β F-Test.md",
+      "x": 3355.724609375,
+      "y": -1873.750732421875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/(Weak) Stationarity.md",
+      "x": 2185.259765625,
+      "y": -1116.745361328125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/ACF & Seasonality.md",
+      "x": 2745.01123046875,
+      "y": -1245.7637939453125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/ACF & Trend.md",
+      "x": 2760.7607421875,
+      "y": -1128.173095703125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/AR & MA Model Fitting.md",
+      "x": 301.94500732421875,
+      "y": -1642.5052490234375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/AR(1) ⇔ MA(∞) Conversions.md",
+      "x": -58.90254211425781,
+      "y": -1529.58154296875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/AR(p) Process.md",
+      "x": 125.92108154296875,
+      "y": -1388.9271240234375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/ARIMA.md",
+      "x": -156.3716583251953,
+      "y": -1223.8057861328125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/ARMA.md",
+      "x": -32.87559509277344,
+      "y": -1359.7596435546875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Augmented Dickey-Fuller.md",
+      "x": 2674.53466796875,
+      "y": -720.8596801757812
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Autocorrelation (ACF).md",
+      "x": 2593.09619140625,
+      "y": -1178.46435546875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/BEKK.md",
+      "x": 811.939697265625,
+      "y": -1018.1224975585938
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Backshift Op & Characteristic Polynomial & Unit Root.md",
+      "x": 126.64229583740234,
+      "y": -1240.1566162109375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Changepoint & Outlier Det. Libs.md",
+      "x": 1063.904541015625,
+      "y": -1553.99365234375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Cointegration.md",
+      "x": 1594.3975830078125,
+      "y": -1140.4739990234375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Conditional Heteroskedasticity Models (Vol).md",
+      "x": 962.9268188476562,
+      "y": -1041.2957763671875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Continuous State-Space Models.md",
+      "x": 2450.164306640625,
+      "y": -1608.0675048828125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Correlogram.md",
+      "x": 2319.4208984375,
+      "y": -1277.5390625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Decomposition-Based.md",
+      "x": 506.38262939453125,
+      "y": -1252.349853515625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Dickey-Fuller Test.md",
+      "x": 2526.159912109375,
+      "y": -778.9613037109375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Differencing & Order of Integration & Backshifting.md",
+      "x": 2229.998046875,
+      "y": -978.3948364257812
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Discrete State Space.md",
+      "x": 2557.802490234375,
+      "y": -1714.5584716796875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Durbin-Levinson Algo..md",
+      "x": 2643.534423828125,
+      "y": -1353.654052734375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Dynamic Time Warping (DTW).md",
+      "x": 1504.537353515625,
+      "y": -1277.925048828125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Engle-Granger Test.md",
+      "x": 1503.5574951171875,
+      "y": -1015.5753173828125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Error-Trend-Seasonal (ETS).md",
+      "x": 362.9755859375,
+      "y": -1126.6805419921875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Exogenous Extension (X).md",
+      "x": -64.5489730834961,
+      "y": -1099.882568359375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Forecasting Libs.md",
+      "x": 1021.4583129882812,
+      "y": -1778.3804931640625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Forecasting.md",
+      "x": 1178.5567626953125,
+      "y": -1401.235595703125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/GARCH.md",
+      "x": 985.7197265625,
+      "y": -888.7156372070312
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Granger Causality.md",
+      "x": 1767.9403076171875,
+      "y": -1230.5743408203125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Hidden Markov Model.md",
+      "x": 2725.834716796875,
+      "y": -1693.7266845703125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Hurst Exponent.md",
+      "x": 2676.043701171875,
+      "y": -1044.533447265625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Invertibility (TS).md",
+      "x": -168.27281188964844,
+      "y": -1640.8519287109375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Johansen Test.md",
+      "x": 1646.255615234375,
+      "y": -996.4351806640625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/K.P.S.S Test.md",
+      "x": 2529.640869140625,
+      "y": -898.8662719726562
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Kalman Filter.md",
+      "x": 2602.4658203125,
+      "y": -1554.0277099609375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Koyck Transformation.md",
+      "x": -217.54150390625,
+      "y": -1531.5750732421875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Libraries (TS).md",
+      "x": 1269.3212890625,
+      "y": -1631.95849609375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Linear Models.md",
+      "x": 686.379638671875,
+      "y": -1391.060546875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/MA(q) Process.md",
+      "x": 117.59800720214844,
+      "y": -1507.9390869140625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Outlier Detection.md",
+      "x": 1748.8282470703125,
+      "y": -1564.3580322265625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/PP Test.md",
+      "x": 2362.731689453125,
+      "y": -761.0844116210938
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Partial Autocorrelation (PACF).md",
+      "x": 2487.890625,
+      "y": -1313.951904296875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Power Spectral Density.md",
+      "x": 2120.2646484375,
+      "y": -1422.05126953125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Seasonal Extension (S).md",
+      "x": -303.3986511230469,
+      "y": -1258.301513671875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Seasonal-Trend-Loess Decomp..md",
+      "x": 479.2276916503906,
+      "y": -1099.8795166015625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Similarity.md",
+      "x": 1639.0931396484375,
+      "y": -1340.66357421875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Simple Exp. Smoothing.md",
+      "x": 323.4971618652344,
+      "y": -973.1112060546875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/State Space Models.md",
+      "x": 2327.04248046875,
+      "y": -1755.498291015625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Stationarity Tests.md",
+      "x": 2378.226318359375,
+      "y": -912.6702880859375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Stationarity-Based (AR, MA).md",
+      "x": 356.0143737792969,
+      "y": -1461.83349609375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Stochastic Volatility Models.md",
+      "x": 868.3994140625,
+      "y": -912.6443481445312
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Strongly (Joint) Stationary.md",
+      "x": 2101.449462890625,
+      "y": -991.7649536132812
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/TS Features Libs.md",
+      "x": 1428.3858642578125,
+      "y": -1643.228515625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Theta Model.md",
+      "x": 594.0367431640625,
+      "y": -1133.3021240234375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Time Series Definition (S.P).md",
+      "x": 1995.0130615234375,
+      "y": -1349.705810546875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Time Series Similarity Libs.md",
+      "x": 1280.583251953125,
+      "y": -1796.51708984375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/VEC.md",
+      "x": 1089.7801513671875,
+      "y": -961.3538818359375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Vector Extension (V) VAR.md",
+      "x": -198.83041381835938,
+      "y": -1081.9583740234375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Vector Granger Causality.md",
+      "x": 1848.9578857421875,
+      "y": -1101.531982421875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Volatility Models.md",
+      "x": 1073.01318359375,
+      "y": -1205.541259765625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Wold Decomp. Theorem.md",
+      "x": 301.23797607421875,
+      "y": -1794.2489013671875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/Yule-Walker Equations.md",
+      "x": 180.19113159179688,
+      "y": -1735.534423828125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/arch.md",
+      "x": 871.1239624023438,
+      "y": -1856.2781982421875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/changepy.md",
+      "x": 997.0130615234375,
+      "y": -1415.9627685546875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/darts.md",
+      "x": 1083.2789306640625,
+      "y": -1914.7503662109375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/pyod.md",
+      "x": 911.23828125,
+      "y": -1499.061279296875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/ruptures.md",
+      "x": 921.2816162109375,
+      "y": -1617.9798583984375
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/sktime.md",
+      "x": 964.5922241210938,
+      "y": -1928.8140869140625
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/statsforecast (nixtla).md",
+      "x": 864.4187622070312,
+      "y": -1737.9578857421875
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/tsfeatures (nixtla).md",
+      "x": 1570.4197998046875,
+      "y": -1694.384033203125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/tsfresh.md",
+      "x": 1489.5684814453125,
+      "y": -1783.0235595703125
+    },
+    {
+      "id": "Atoms & Molecules/4. Statistics/Time Series/tslearn.md",
+      "x": 1328.8592529296875,
+      "y": -1941.5931396484375
+    },
+    {
+      "id": "Atoms & Molecules/5. Physics/Classical Mechanics/Transition to Applied QM.md",
+      "x": 67.1038589477539,
+      "y": -3903.4580078125
+    },
+    {
+      "id": "Atoms & Molecules/5. Physics/Classical Mechanics/Transition to QM & Relativity.md",
+      "x": 53.241539001464844,
+      "y": -3614.958984375
+    },
+    {
+      "id": "Atoms & Molecules/5. Physics/Relativity/Special Relativity/Transition to GR.md",
+      "x": 451.537109375,
+      "y": -3721.170166015625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Basic Probability Qns (Z).md",
+      "x": 1273.071044921875,
+      "y": 680.2603759765625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Brainteaser Qns (Z).md",
+      "x": 898.120361328125,
+      "y": 561.8948974609375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Brownian Motion & Stoch Calc Qns (Z).md",
+      "x": 650.238525390625,
+      "y": 811.416015625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Calculus & Linear Algebra Qns (Z).md",
+      "x": 820.4744873046875,
+      "y": 337.57696533203125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Card Deck Qns (C).md",
+      "x": 390.5513610839844,
+      "y": 1370.95068359375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Coin Toss & Recursion Qns (C).md",
+      "x": 116.24073791503906,
+      "y": 1232.3260498046875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Combinatorics Qns (C).md",
+      "x": 211.98561096191406,
+      "y": 1160.9637451171875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Combinatorics Qns (Z).md",
+      "x": 1365.0133056640625,
+      "y": 872.473876953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Combined Questions (C+Z).md",
+      "x": 516.3968505859375,
+      "y": 692.9345703125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Conditional Probability & Bayes Qns (Z).md",
+      "x": 1364.6292724609375,
+      "y": 754.9815673828125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Conservation & Symmetry Qns (CZ).md",
+      "x": -43.98493957519531,
+      "y": 120.35488891601562
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Corporate Finance Qns (C).md",
+      "x": 6.8754682540893555,
+      "y": 953.4401245117188
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Derivatives Qns (C).md",
+      "x": 453.701904296875,
+      "y": 972.5752563476562
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Derivatives Qns (Z).md",
+      "x": 1088.032470703125,
+      "y": 548.6538696289062
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Dice Qns (C).md",
+      "x": 97.20150756835938,
+      "y": 1348.9798583984375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Discrete & Continuous Distributions Qns (Z).md",
+      "x": 1286.9639892578125,
+      "y": 959.7464599609375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/EV, Var and Cov Qns (Z).md",
+      "x": 1168.6248779296875,
+      "y": 968.2091674804688
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Expected Value-Strategy Game Qns (C).md",
+      "x": 177.13075256347656,
+      "y": 1436.1639404296875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/FAQs in QF (Wilmott).md",
+      "x": 748.3694458007812,
+      "y": 1182.6246337890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Fermi Problems (C).md",
+      "x": 236.65521240234375,
+      "y": 420.33587646484375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Financial Economics Qns (C).md",
+      "x": 175.3270721435547,
+      "y": 981.0877685546875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Fixed Income Qns (C).md",
+      "x": 39.743648529052734,
+      "y": 1067.347412109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Forward Qns (C).md",
+      "x": 188.50051879882812,
+      "y": 830.08203125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Geometry (Visual) Qns (C).md",
+      "x": -33.70157241821289,
+      "y": 341.28656005859375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Greeks Qns (Z).md",
+      "x": 1087.7847900390625,
+      "y": 389.7186279296875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Green Book (Zhou).md",
+      "x": 928.2214965820312,
+      "y": 711.1334228515625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/HOTS (Crack).md",
+      "x": 432.8606872558594,
+      "y": 1111.7230224609375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Integration Qns (Z).md",
+      "x": 732.8553466796875,
+      "y": 192.39614868164062
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Limits & Derivative Qns (Z).md",
+      "x": 942.71435546875,
+      "y": 231.1277313232422
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Linear Algebra Qns (Z).md",
+      "x": 669.6790161132812,
+      "y": 292.5641784667969
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Logic Qns (C).md",
+      "x": 85.98582458496094,
+      "y": 229.7452850341797
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Logic Qns (Z).md",
+      "x": 913.1862182617188,
+      "y": 413.7005615234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Market Knowledge Qns (C).md",
+      "x": 71.52627563476562,
+      "y": 854.3251953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Markov Chain Qns (Z).md",
+      "x": 610.7084350585938,
+      "y": 621.1025390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Martingale & Random Walk Qns (Z).md",
+      "x": 704.2862548828125,
+      "y": 547.4220581054688
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Math Induction Qns (Z).md",
+      "x": 230.88523864746094,
+      "y": -175.60537719726562
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Mental Math Qns (CZ).md",
+      "x": 484.5531921386719,
+      "y": -47.201759338378906
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Modular Arithmetic Qns (Z).md",
+      "x": 449.813720703125,
+      "y": -159.85011291503906
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Nontechnical Math Qns (CZ).md",
+      "x": 335.4785461425781,
+      "y": -30.984251022338867
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Numerical Pattern Questions (CZ).md",
+      "x": -79.25872802734375,
+      "y": 232.17030334472656
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/ODE Qns (Z).md",
+      "x": 846.3851318359375,
+      "y": 161.93609619140625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Option Portfolios & Exotic Options Qns (Z).md",
+      "x": 1200.36474609375,
+      "y": 428.64996337890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Option Pricing Qns (Z).md",
+      "x": 1243.064208984375,
+      "y": 540.15380859375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Order Statistics Qns (Z).md",
+      "x": 1078.3079833984375,
+      "y": 889.817138671875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Pigeonhole Principle Qns (Z).md",
+      "x": 61.91107940673828,
+      "y": 68.96881866455078
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Probability & Stats Qns (C).md",
+      "x": 261.4086608886719,
+      "y": 1294.5068359375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Probability & Stats Qns (Z).md",
+      "x": 1205.114501953125,
+      "y": 815.61669921875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Problem Simplification (Z).md",
+      "x": 78.66813659667969,
+      "y": 379.29620361328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Proof by Contradiction Qns (Z).md",
+      "x": 185.98495483398438,
+      "y": -67.1194839477539
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Pure Logic Qns (CZ).md",
+      "x": 173.6888885498047,
+      "y": 111.25527954101562
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Quantitative & Logic Qns (CZ).md",
+      "x": 341.4293212890625,
+      "y": 319.67431640625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Random Variable Qns (C).md",
+      "x": 296.1307678222656,
+      "y": 1444.4586181640625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Series Summation Qns (Z).md",
+      "x": 342.34259033203125,
+      "y": -207.5083465576172
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Stochastic Processes Qns (Z).md",
+      "x": 745.8301391601562,
+      "y": 697.8519287109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Derivatives & Fixed Income/Fixed Income.md",
+      "x": 1012.03662109375,
+      "y": 1383.6846923828125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Derivatives & Fixed Income/Forwards & Futures.md",
+      "x": 918.3576049804688,
+      "y": 1520.19677734375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Derivatives & Fixed Income/Options.md",
+      "x": 1166.2279052734375,
+      "y": 1408.4111328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/(Conditional) Value-at-Risk.md",
+      "x": 1154.3084716796875,
+      "y": 1885.0618896484375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/(Rank) Info. Coefficient.md",
+      "x": 1245.0816650390625,
+      "y": 2984.963134765625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Alpha Factor Models.md",
+      "x": 2198.23974609375,
+      "y": 2611.03369140625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Alpha Factor Preprocessing.md",
+      "x": 2335.6748046875,
+      "y": 2800.870849609375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Alpha vs Risk Factor Comparison.md",
+      "x": 1944.1732177734375,
+      "y": 2914.913330078125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Arithmetic & Geometric Return.md",
+      "x": 1880.868896484375,
+      "y": 2201.06201171875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Backtesting Basics.md",
+      "x": 1673.68310546875,
+      "y": 2724.135498046875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Backtesting.md",
+      "x": 1531.4876708984375,
+      "y": 2678.39306640625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Beta.md",
+      "x": 2932.210693359375,
+      "y": 2249.650146484375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/CAPM.md",
+      "x": 2780.25537109375,
+      "y": 2236.963623046875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Carry Factor.md",
+      "x": 1618.8033447265625,
+      "y": 3423.425048828125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Classical ML Alpha Models Setup.md",
+      "x": 2423.8017578125,
+      "y": 2601.632568359375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Cross-Sectional Risk Factor Models.md",
+      "x": 2324.452880859375,
+      "y": 2221.900634765625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Current & Historical Vol. (W).md",
+      "x": 1542.5123291015625,
+      "y": 1683.162841796875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Drawdown.md",
+      "x": 1402.9154052734375,
+      "y": 2857.24755859375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Factor Definition (Finance).md",
+      "x": 1896.064453125,
+      "y": 2773.701416015625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Factor Examples (Risk Premia).md",
+      "x": 1818.440673828125,
+      "y": 3075.051025390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Factor Rank Autocorrelation (Turnover).md",
+      "x": 1360.7113037109375,
+      "y": 2968.627197265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Factors.md",
+      "x": 1932.9012451171875,
+      "y": 2462.7470703125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Fama-French.md",
+      "x": 2704.248779296875,
+      "y": 2338.74462890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Financial Time Series Concepts.md",
+      "x": 1520.9774169921875,
+      "y": 2182.155029296875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Fundamental-Based Factors.md",
+      "x": 1908.38427734375,
+      "y": 3221.623046875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Implied Vol..md",
+      "x": 1638.99755859375,
+      "y": 1788.083740234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Information Ratio.md",
+      "x": 1124.8504638671875,
+      "y": 3219.740234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Law of Active Mgmt..md",
+      "x": 1137.0782470703125,
+      "y": 2935.086181640625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Liquidity.md",
+      "x": 1476.1807861328125,
+      "y": 2332.796630859375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Log Returns.md",
+      "x": 2026.3118896484375,
+      "y": 2162.176513671875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Modern Portfolio Theory (MVO).md",
+      "x": 2601.384033203125,
+      "y": 1329.335693359375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Momentum & Mean Reversion Factor.md",
+      "x": 1546.4781494140625,
+      "y": 3328.5048828125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Neutralization.md",
+      "x": 2463.609619140625,
+      "y": 2904.337158203125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Overnight Return.md",
+      "x": 1750.897705078125,
+      "y": 2339.230712890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Performance Evaluation.md",
+      "x": 1405.73193359375,
+      "y": 2539.82177734375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Performance Measurements.md",
+      "x": 1258.580322265625,
+      "y": 2831.888916015625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Price-Based Factors.md",
+      "x": 1697.4033203125,
+      "y": 3279.275390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Quant ML Features (W).md",
+      "x": 2569.3388671875,
+      "y": 2670.65234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Quant ML Labels (W).md",
+      "x": 2574.210205078125,
+      "y": 2551.138671875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Quantile Analysis.md",
+      "x": 1102.37890625,
+      "y": 2821.05078125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Ranking.md",
+      "x": 2490.247314453125,
+      "y": 2788.693115234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Return Stylized Facts.md",
+      "x": 1789.2042236328125,
+      "y": 2071.49462890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Return.md",
+      "x": 1708.1468505859375,
+      "y": 2196.609130859375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Risk Factor Models.md",
+      "x": 2263.809814453125,
+      "y": 2359.661376953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Risk Measures.md",
+      "x": 1291.228271484375,
+      "y": 1949.4349365234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Risk.md",
+      "x": 1453.001708984375,
+      "y": 2005.516357421875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Sharpe Ratio.md",
+      "x": 1149.9415283203125,
+      "y": 3053.900634765625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Smart Beta.md",
+      "x": 2484.719482421875,
+      "y": 1527.303466796875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Smoothing.md",
+      "x": 2362.09033203125,
+      "y": 2964.825927734375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Statistical Risk Factor Models.md",
+      "x": 2407.015380859375,
+      "y": 2335.138427734375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Technical Factors (Indicators).md",
+      "x": 1738.24755859375,
+      "y": 3426.590576171875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Time-Series Risk Factor Models.md",
+      "x": 2555.6337890625,
+      "y": 2292.933349609375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Transactions & Orders.md",
+      "x": 1353.5250244140625,
+      "y": 2198.32275390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Transfer Coefficient.md",
+      "x": 1162.869140625,
+      "y": 2717.602294921875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Universe Construction.md",
+      "x": 2192.207275390625,
+      "y": 2825.611083984375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Value Factor.md",
+      "x": 1968.408203125,
+      "y": 3359.37939453125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Vectorized vs Event Driven (Stream) Backtesting.md",
+      "x": 1583.34814453125,
+      "y": 2824.483154296875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Volatility (Definition).md",
+      "x": 1495.5577392578125,
+      "y": 1829.2479248046875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Volatility Forecasting (W).md",
+      "x": 1414.234375,
+      "y": 1703.5802001953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Volume & Turnover.md",
+      "x": 1344.48583984375,
+      "y": 2406.33837890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Financial Time Series Concepts/Z-Scoring.md",
+      "x": 2247.95947265625,
+      "y": 2931.588134765625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/APM (Paleologo).md",
+      "x": 1933.63916015625,
+      "y": 1242.021484375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/C.M.L and Efficient Frontier.md",
+      "x": 2738.87548828125,
+      "y": 1266.202392578125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Cross-Sectional Seasonality (Z).md",
+      "x": 2141.988037109375,
+      "y": 1817.5611572265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Economic Indicators (Z).md",
+      "x": 2245.967529296875,
+      "y": 1537.047119140625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Forecast Combining (I).md",
+      "x": 2142.196533203125,
+      "y": 1008.80615234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Forecasting (I).md",
+      "x": 2400.223388671875,
+      "y": 1136.820068359375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Market Seasonality (Z).md",
+      "x": 2267.261962890625,
+      "y": 1776.049072265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Optimization Computational Efficiency - Constraints ⇔ Objective Functions (W).md",
+      "x": 2986.04638671875,
+      "y": 1672.3814697265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Optimization Formulation with Alpha & Risk Models (W).md",
+      "x": 2876.576171875,
+      "y": 1554.1392822265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Order Execution, Slippage & Transactions.md",
+      "x": 1204.058349609375,
+      "y": 2233.159423828125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Performance Attribution (P).md",
+      "x": 1778.2471923828125,
+      "y": 1246.39013671875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/PnL Attribution (W).md",
+      "x": 2720.66259765625,
+      "y": 1726.9586181640625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Portfolio Characteristics (W).md",
+      "x": 2814.38916015625,
+      "y": 1654.9007568359375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Portfolio Construction (I).md",
+      "x": 2265.77197265625,
+      "y": 957.88671875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Portfolio Fundamentals.md",
+      "x": 2440.21728515625,
+      "y": 1387.4864501953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Portfolio Optimization (W).md",
+      "x": 2685.29931640625,
+      "y": 1560.0390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Portfolio Variance Decomposition (W).md",
+      "x": 2607.03515625,
+      "y": 1693.086669921875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Risk (I).md",
+      "x": 2375.96484375,
+      "y": 1016.8262939453125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Seasonal Effects (Z).md",
+      "x": 2154.808837890625,
+      "y": 1666.1015625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Signals (Z).md",
+      "x": 1995.818359375,
+      "y": 1543.0823974609375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Portfolio Management/Understanding Factors (P).md",
+      "x": 1826.0654296875,
+      "y": 1136.4364013671875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Array Creation Routines (np).md",
+      "x": -176.7288818359375,
+      "y": 2380.045166015625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Array Manipulation Routines (np).md",
+      "x": -292.408203125,
+      "y": 2410.876220703125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Binary Operations (pd).md",
+      "x": -317.2776794433594,
+      "y": 3436.86083984375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Binary Operations Functions (pd).md",
+      "x": -564.11865234375,
+      "y": 3545.047119140625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Clustering (scipy.cluster).md",
+      "x": 298.8514404296875,
+      "y": 3031.88525390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Computations & Stats (pd).md",
+      "x": -444.65557861328125,
+      "y": 3428.7412109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Creation & Manip. Routines (Np).md",
+      "x": -192.8671417236328,
+      "y": 2531.0927734375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Cross-Sectional Models (sm).md",
+      "x": 571.79248046875,
+      "y": 3285.8330078125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/CvxPy.md",
+      "x": 102.49364471435547,
+      "y": 2691.454345703125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Data Handling & Scientific Computing Libs.md",
+      "x": 199.71534729003906,
+      "y": 2797.91650390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Data Types (np).md",
+      "x": -162.23646545410156,
+      "y": 2847.71923828125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/DataFrame Object.md",
+      "x": -211.0202178955078,
+      "y": 3341.1552734375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Date and Time Series (pd).md",
+      "x": -303.23321533203125,
+      "y": 3563.6259765625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Descriptive Stats (pd).md",
+      "x": -606.5845336914062,
+      "y": 3433.0888671875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Exponential Smoothing (tsa).md",
+      "x": 315.5667724609375,
+      "y": 3584.244873046875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Filters & Decompositions (tsa).md",
+      "x": 561.6646728515625,
+      "y": 3459.984619140625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Graphics (sm).md",
+      "x": 683.872314453125,
+      "y": 3407.490966796875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Groupby-Apply (pd).md",
+      "x": -522.1160888671875,
+      "y": 3234.02587890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Indexing (pd).md",
+      "x": -121.34242248535156,
+      "y": 3543.306640625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Indexing.md",
+      "x": -12.779752731323242,
+      "y": 3658.7490234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Interpolation (scipy.interpolate).md",
+      "x": 219.6024932861328,
+      "y": 2941.8427734375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Linear Algebra (scipy.linalg).md",
+      "x": 512.3274536132812,
+      "y": 2947.352783203125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Linear Algebra Routines (np).md",
+      "x": -582.4556274414062,
+      "y": 2579.65625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Logic & Set Routines (np).md",
+      "x": -397.6145935058594,
+      "y": 2947.870361328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Math Routines(np).md",
+      "x": -541.2841796875,
+      "y": 2468.83935546875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Math-Based Routines (np).md",
+      "x": -417.9629211425781,
+      "y": 2585.371826171875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Misc Routines (np).md",
+      "x": -319.2641296386719,
+      "y": 2813.510986328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Multi-Indexing (pd).md",
+      "x": -123.58760833740234,
+      "y": 3704.325439453125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Multivariate Time Series Models (tsa).md",
+      "x": 425.8035888671875,
+      "y": 3624.6396484375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/NumPy.md",
+      "x": -145.8035125732422,
+      "y": 2702.802490234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Optimization (scipy.optimize).md",
+      "x": 430.03546142578125,
+      "y": 3034.1171875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Pandas.md",
+      "x": -11.723925590515137,
+      "y": 3074.640869140625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Random Sampling Routines (np).md",
+      "x": -429.7298889160156,
+      "y": 2427.653076171875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Regression (sm).md",
+      "x": 730.7064819335938,
+      "y": 3297.44775390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Reshaping (pd).md",
+      "x": -71.70551300048828,
+      "y": 3385.161376953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/SciPy.md",
+      "x": 362.545654296875,
+      "y": 2894.667236328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Sorting, Searching, Counting Routines (np).md",
+      "x": -471.8753967285156,
+      "y": 2853.746337890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Split-Apply-Combine (pd).md",
+      "x": -366.1866455078125,
+      "y": 3264.849853515625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Statistics & Tests (tsa).md",
+      "x": 263.8134460449219,
+      "y": 3477.354248046875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Statistics (scipy.stats).md",
+      "x": 497.18878173828125,
+      "y": 2828.614990234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Statistics Routines (np).md",
+      "x": -533.4680786132812,
+      "y": 2687.929443359375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Statsmodels.md",
+      "x": 349.932373046875,
+      "y": 3172.52197265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Time Series Models (tsa).md",
+      "x": 410.0768737792969,
+      "y": 3451.29150390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Time Series Operations (pd).md",
+      "x": -315.32489013671875,
+      "y": 3724.375732421875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Univariate Time Series Analysis (tsa).md",
+      "x": 532.5641479492188,
+      "y": 3574.28564453125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Data Handling & Scientific Computing/Window Operations (pd).md",
+      "x": -424.0072021484375,
+      "y": 3673.917236328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/(Q) alphalens 2.4k.md",
+      "x": 871.4738159179688,
+      "y": 2221.6298828125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/(Q) pyfolio 4.6k.md",
+      "x": 518.8378295898438,
+      "y": 2506.62353515625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/(Q) zipline-reloaded 0.4k.md",
+      "x": -20.518436431884766,
+      "y": 1972.999755859375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/Backtesting Libs.md",
+      "x": 203.95541381835938,
+      "y": 2067.440185546875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/Data Source Libraries.md",
+      "x": 560.2042846679688,
+      "y": 1957.5604248046875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/Misc Quant Libraries.md",
+      "x": 743.0820922851562,
+      "y": 2147.243408203125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/OpenBB Terminal 17.1k.md",
+      "x": 666.7327270507812,
+      "y": 1849.248779296875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/Portfolio Optimization Libs.md",
+      "x": 577.7968139648438,
+      "y": 2364.208251953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/Zipline Basics.md",
+      "x": -169.8531951904297,
+      "y": 1908.7894287109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/backtesting 2.4k.md",
+      "x": 209.05169677734375,
+      "y": 1912.9189453125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/backtrader 9.4k.md",
+      "x": 47.94990158081055,
+      "y": 2070.397216796875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/findatapy 1.2k.md",
+      "x": 447.5876770019531,
+      "y": 1851.084716796875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/mlfinlib 3.1k.md",
+      "x": 839.0554809570312,
+      "y": 2033.488037109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/moonshot 0.13k.md",
+      "x": 90.75189208984375,
+      "y": 2181.512939453125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/pandas-datareader 2.5k.md",
+      "x": 420.72265625,
+      "y": 2001.1064453125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/pyportfolioopt 3.1k.md",
+      "x": 720.3863525390625,
+      "y": 2421.5751953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/qlib 9.7k.md",
+      "x": 204.53671264648438,
+      "y": 2218.46728515625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/quantstats 2.4k.md",
+      "x": 432.88031005859375,
+      "y": 2407.866455078125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/riskfolio-lib 1.5k.md",
+      "x": 638.6681518554688,
+      "y": 2509.18896484375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/vectorbt 2.3k.md",
+      "x": 96.80915069580078,
+      "y": 1953.0860595703125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Quant Libraries (Tools)/Quant Libraries/yfinance 7.7k.md",
+      "x": 556.7169799804688,
+      "y": 1801.482666015625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/AEM (Zhou).md",
+      "x": 2121.640869140625,
+      "y": 1462.189208984375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Alpha Model Specifications (N).md",
+      "x": 3398.6435546875,
+      "y": 1190.349609375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Alpha Model Workflow (W).md",
+      "x": 3085.496826171875,
+      "y": 1114.9990234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Alpha Models (N).md",
+      "x": 3228.955322265625,
+      "y": 1116.0355224609375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Alpha Sizing (P).md",
+      "x": 1831.8258056640625,
+      "y": 1355.1861572265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Alphas & Signals (W).md",
+      "x": 3554.475830078125,
+      "y": 1281.849365234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Alternative Data (R).md",
+      "x": 3507.85009765625,
+      "y": 902.5285034179688
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Alternative Data Classification (R).md",
+      "x": 3632.655029296875,
+      "y": 995.2965698242188
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Alternative Data Strategies Case Studies (R).md",
+      "x": 2901.05517578125,
+      "y": 61.82372283935547
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Blending Alpha Models (N).md",
+      "x": 3671.6025390625,
+      "y": 1373.798583984375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Bonds, FX, Commods w. News Sentiment (R).md",
+      "x": 2897.1103515625,
+      "y": -327.7450866699219
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Business Processes E.gs (R).md",
+      "x": 2763.32861328125,
+      "y": -22.070039749145508
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Call-Overwriting Strat w. Log Reg (R).md",
+      "x": 3640.0048828125,
+      "y": 15.572718620300293
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Classification Strategies E.g (R).md",
+      "x": 3473.07080078125,
+      "y": 28.280359268188477
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Clustering & F.A Strategies E.g (R).md",
+      "x": 3331.772705078125,
+      "y": 151.88522338867188
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Cross-Asset Momentum Strat w. Penalized Regression(R).md",
+      "x": 3376.82861328125,
+      "y": -360.5223083496094
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Cross-Asset Risk Premia Investing w. KNN Reg (R).md",
+      "x": 3512.45849609375,
+      "y": -195.19554138183594
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Data (N).md",
+      "x": 3325.78173828125,
+      "y": 797.1477661132812
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Data Driven Alpha Models (N).md",
+      "x": 3275.703369140625,
+      "y": 1499.0628662109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Data Specification - Investment Characteristics (R).md",
+      "x": 3469.296630859375,
+      "y": 778.3675537109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Economic Activity Indicators (Z).md",
+      "x": 3692.17724609375,
+      "y": 639.3939819335938
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Estimating Retail Sales w. Cellular Location (R).md",
+      "x": 3132.3623046875,
+      "y": -178.58831787109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Factor Timing w. HMMs (R).md",
+      "x": 3582.38671875,
+      "y": -88.5606460571289
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Fundamental Data (W).md",
+      "x": 3366.5087890625,
+      "y": 652.9891967773438
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Global Stock Selection w. RFs (W).md",
+      "x": 3265.639892578125,
+      "y": -320.3804016113281
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Individual Data E.gs (R).md",
+      "x": 2860.60888671875,
+      "y": -167.2842254638672
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Inflation, Interest Rate, Currency Indicators (Z).md",
+      "x": 3665.583740234375,
+      "y": 522.9456787109375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/ML Algorithms Strategies Case Studies (R).md",
+      "x": 3209.449462890625,
+      "y": 72.61054229736328
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/MSCI Indices Pairs Trading w. Kalman Filter (R).md",
+      "x": 3483.070068359375,
+      "y": -310.1852111816406
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Macro Indicators (Z).md",
+      "x": 3533.61279296875,
+      "y": 621.36328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Mean-Reversion Strategies (N).md",
+      "x": 3438.4677734375,
+      "y": 1767.6236572265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Momentum Strategies (N).md",
+      "x": 3325.319091796875,
+      "y": 1715.6768798828125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Optimization-Based (N).md",
+      "x": 2917.861328125,
+      "y": 560.9522705078125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Pairs-Group Trade (StatArb) (W).md",
+      "x": 3386.025390625,
+      "y": 1914.3424072265625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Portfolio Construction Models (N).md",
+      "x": 2998.38232421875,
+      "y": 685.13134765625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Price (Market) Data (N).md",
+      "x": 3248.029541015625,
+      "y": 671.9666137695312
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/QPM (Isichenko).md",
+      "x": 2253.03955078125,
+      "y": 1110.43603515625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Quant Trading Workflow.md",
+      "x": 3013.8994140625,
+      "y": 854.1796875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Regressions Strategies E.gs (R).md",
+      "x": 3356.40673828125,
+      "y": -190.917236328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Retail Stocks w. Parking Lots Satellite Data (R).md",
+      "x": 3028.357666015625,
+      "y": -238.2094268798828
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Risk Models (N).md",
+      "x": 2878.1357421875,
+      "y": 904.1102294921875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Rule-Based (N).md",
+      "x": 3063.405029296875,
+      "y": 546.0608520507812
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/S&P w. Twitter Sentiment (R).md",
+      "x": 2779.484619140625,
+      "y": -305.23681640625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/ST (Carver).md",
+      "x": 2665.001953125,
+      "y": 593.5972900390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Sensor Data Strategies E.gs (R).md",
+      "x": 3018.026611328125,
+      "y": -79.9974365234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Sentiment Indicators (Z).md",
+      "x": 3559.87109375,
+      "y": 466.9224548339844
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Signal Research (W).md",
+      "x": 3171.629638671875,
+      "y": 1250.1207275390625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Sources of Alternative Data (R).md",
+      "x": 3665.0576171875,
+      "y": 878.9458618164062
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Theory Driven Alpha Models (N).md",
+      "x": 3402.639404296875,
+      "y": 1584.7178955078125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Trading Currency Volatility w. SVM (R).md",
+      "x": 3593.025390625,
+      "y": 125.11241149902344
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/Types of Alpha Models (N).md",
+      "x": 3316.296630859375,
+      "y": 1357.2161865234375
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Concepts)/US Equities w. Email Receipt Data (R).md",
+      "x": 2666.956298828125,
+      "y": -142.3765411376953
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/AI4T (Worldquant).md",
+      "x": 1773.01904296875,
+      "y": 29.690303802490234
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/AI4T Capstone - Barra Optimization & Backtest (W).md",
+      "x": 1323.9072265625,
+      "y": -359.8767395019531
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/BD&AI (Rajesh).md",
+      "x": 2895.77099609375,
+      "y": 319.53326416015625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Barra Backtesting & Attribution (W).md",
+      "x": 974.404052734375,
+      "y": -466.1544189453125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Barra Optimization (W).md",
+      "x": 1127.2467041015625,
+      "y": -425.9400939941406
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Corporate Action Adjustment (W).md",
+      "x": 1447.1591796875,
+      "y": -4.629936695098877
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Cross Sectional Momentum Alpha Model E.g (W).md",
+      "x": 1652.9892578125,
+      "y": -474.0595703125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Cross-Sectional Breakout Alpha Model E.g (W).md",
+      "x": 1662.765625,
+      "y": -628.7704467773438
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Data Processing (W).md",
+      "x": 1604.951171875,
+      "y": -2.8968584537506104
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Eigenportfolios & HRP (J).md",
+      "x": 2203.85986328125,
+      "y": 444.578857421875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Eigenportfolios (J).md",
+      "x": 2203.76171875,
+      "y": 591.086669921875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Engineering Alpha Factors (J).md",
+      "x": 2176.90380859375,
+      "y": 112.06690216064453
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Expected Skewness & Momentum (W).md",
+      "x": 1895.664794921875,
+      "y": -316.5478210449219
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Feature Engineering - Factor creation (J).md",
+      "x": 2196.693359375,
+      "y": -42.619728088378906
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Financial Statement NLP Alpha Model E.g (W).md",
+      "x": 1539.2337646484375,
+      "y": -441.73370361328125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/H&T Videos (H).md",
+      "x": 1869.3052978515625,
+      "y": 620.0465087890625
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Hierarchical Risk Parity (J).md",
+      "x": 2346.645263671875,
+      "y": 490.1114501953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Long-Short Forecasting with Ensembles-Boosting.md",
+      "x": 1987.4676513671875,
+      "y": 235.27943420410156
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/ML4T (Jansen).md",
+      "x": 2111.750244140625,
+      "y": 307.70672607421875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Missing Values (W).md",
+      "x": 1634.61572265625,
+      "y": 142.09274291992188
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Optimization with Alpha & Risk Model (W).md",
+      "x": 1441.264892578125,
+      "y": -375.4914245605469
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Outlier Handling & Diagnosis (W).md",
+      "x": 1503.259521484375,
+      "y": -110.39815521240234
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Overnight Returns & Investor Sentiment (W).md",
+      "x": 2067.61083984375,
+      "y": -190.02352905273438
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Paper Case Studies (W).md",
+      "x": 1915.423828125,
+      "y": -161.55264282226562
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Quantopian Videos (Q).md",
+      "x": 1761.0352783203125,
+      "y": 450.4191589355469
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Random Forest Predictor Alpha Model E.g (W).md",
+      "x": 1694.452880859375,
+      "y": -361.6642150878906
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Smart-Beta (Dividend Yield) Portfolio E.g (W).md",
+      "x": 1414.59814453125,
+      "y": -258.8124694824219
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Stat Arb with Cointegration (J).md",
+      "x": 2460.52685546875,
+      "y": 261.74786376953125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Strategy Projects (W).md",
+      "x": 1568.7322998046875,
+      "y": -282.1251220703125
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Technical Indicators (W).md",
+      "x": 1497.904296875,
+      "y": 103.8418960571289
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Time Series Models - Forecasting & StatArb (J).md",
+      "x": 2304.58740234375,
+      "y": 249.33319091796875
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Using Talib (J).md",
+      "x": 2303.067138671875,
+      "y": 12.266631126403809
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/VAR Forecasting Macro Indicators (J).md",
+      "x": 2423.7314453125,
+      "y": 146.48403930664062
+    },
+    {
+      "id": "Atoms & Molecules/8. Quant/Systematic Trading (Practice)/Winners and Losers - Convexity Price Path (W).md",
+      "x": 2012.9892578125,
+      "y": -296.0812683105469
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Archaelogical Inference.md",
+      "x": -1718.406494140625,
+      "y": -3086.44873046875
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Clade.md",
+      "x": -1269.7491455078125,
+      "y": -2399.80224609375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Convergent vs Parallel Evolution.md",
+      "x": -1450.1580810546875,
+      "y": -3069.0126953125
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Diet Reconstruction.md",
+      "x": -1807.397216796875,
+      "y": -3399.157470703125
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/E.B Concepts.md",
+      "x": -1400.280517578125,
+      "y": -2931.00341796875
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Evolutionary Processes.md",
+      "x": -1287.5640869140625,
+      "y": -3117.014892578125
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Fisherian Runaway.md",
+      "x": -1019.332275390625,
+      "y": -3325.739990234375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Fossilization.md",
+      "x": -1671.084228515625,
+      "y": -3230.066162109375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Gene Flow.md",
+      "x": -1087.404052734375,
+      "y": -2839.490234375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Genetic Recombination.md",
+      "x": -1197.1109619140625,
+      "y": -2653.2041015625
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Handicap Principle.md",
+      "x": -1107.7919921875,
+      "y": -3406.312255859375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Human Phylogeny.md",
+      "x": -1504.933349609375,
+      "y": -2516.195068359375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Indicator Hypothesis.md",
+      "x": -1089.0625,
+      "y": -3115.98974609375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Isotope Analysis.md",
+      "x": -1813.739990234375,
+      "y": -3246.60546875
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Mutation.md",
+      "x": -1097.883544921875,
+      "y": -2720.184814453125
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Natural Selection.md",
+      "x": -1352.707275390625,
+      "y": -3256.540771484375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Phylogenetic Trees.md",
+      "x": -1373.65966796875,
+      "y": -2520.325927734375
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Phylogeny.md",
+      "x": -1505.5977783203125,
+      "y": -2669.270263671875
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Sexual Dimorphism.md",
+      "x": -1226.8114013671875,
+      "y": -3394.070556640625
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Sexual Selection.md",
+      "x": -1155.0362548828125,
+      "y": -3254.62939453125
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Sexy Son Hypothesis.md",
+      "x": -1008.9534912109375,
+      "y": -3205.11962890625
+    },
+    {
+      "id": "Atoms & Molecules/9. Biology/Evolutionary Biology/Variation.md",
+      "x": -1233.9412841796875,
+      "y": -2802.265625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/AWS.md",
+      "x": -2862.177001953125,
+      "y": -1264.1285400390625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Abstract Algebra.md",
+      "x": 408.46112060546875,
+      "y": -3239.73046875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Aging.md",
+      "x": -1821.3795166015625,
+      "y": -2879.646484375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Ailments.md",
+      "x": -1486.6943359375,
+      "y": 2474.329833984375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Airflow.md",
+      "x": -2840.22998046875,
+      "y": -1074.788330078125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Algebraic Geometry.md",
+      "x": 673.7463989257812,
+      "y": -3492.005859375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Algorithms & Data Structures.md",
+      "x": -1763.03076171875,
+      "y": -1613.745361328125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Apps.md",
+      "x": -1732.8900146484375,
+      "y": 1759.8026123046875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Bayesian Statistics.md",
+      "x": 1838.88134765625,
+      "y": -2248.796875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Biological Science.md",
+      "x": -1781.7169189453125,
+      "y": -2762.9580078125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Brainteasers & Intv. Questions.md",
+      "x": 772.0369262695312,
+      "y": 1039.7015380859375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/C++.md",
+      "x": -3181.80712890625,
+      "y": -903.39306640625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/C.md",
+      "x": -3062.3984375,
+      "y": -1082.1300048828125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/CS Fundamentals.md",
+      "x": -2196.072998046875,
+      "y": -1529.6727294921875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Calculus.md",
+      "x": 127.47801208496094,
+      "y": -2863.235595703125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Category Theory.md",
+      "x": 418.80267333984375,
+      "y": -3051.8115234375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Causality.md",
+      "x": 1689.2193603515625,
+      "y": -2147.477783203125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Chemical Principles.md",
+      "x": -2450.02587890625,
+      "y": -2647.163818359375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Circuits.md",
+      "x": -501.6905822753906,
+      "y": -3221.416259765625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Classical CV.md",
+      "x": -1213.475830078125,
+      "y": -35.5319709777832
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Classical Electromagnetism.md",
+      "x": 30.209609985351562,
+      "y": -3435.556884765625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Classical ML Libraries.md",
+      "x": -828.0595092773438,
+      "y": -419.03680419921875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Classical ML.md",
+      "x": -1133.702880859375,
+      "y": -152.8126220703125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Classical Mechanics.md",
+      "x": -84.06271362304688,
+      "y": -3467.896484375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Classical NLP.md",
+      "x": -987.4556884765625,
+      "y": -136.23915100097656
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Classical Statistics.md",
+      "x": 1579.5421142578125,
+      "y": -2513.607666015625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Communications Theory.md",
+      "x": -579.5292358398438,
+      "y": -3539.819091796875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Compilers & Interpreters.md",
+      "x": -2313.920654296875,
+      "y": -1614.572998046875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Complex Analysis.md",
+      "x": 236.2380828857422,
+      "y": -2945.77880859375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Computational Theory.md",
+      "x": -2163.238037109375,
+      "y": -1383.1846923828125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Computer Architecture.md",
+      "x": -2082.7587890625,
+      "y": -1745.1915283203125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Computer Networking.md",
+      "x": -2302.74365234375,
+      "y": -1428.3802490234375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Computer Vision.md",
+      "x": -1537.0169677734375,
+      "y": -700.731201171875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Condensed Matter.md",
+      "x": 184.2246856689453,
+      "y": -3995.247802734375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Conformal Prediction.md",
+      "x": -2076.408203125,
+      "y": -47.77041244506836
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Containers.md",
+      "x": -2846.234619140625,
+      "y": -1382.8795166015625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Control Theory.md",
+      "x": 215.04356384277344,
+      "y": -3411.09228515625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/DSP.md",
+      "x": -689.9619140625,
+      "y": -3312.75048828125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Data Engineering.md",
+      "x": -2691.14990234375,
+      "y": -1051.42529296875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Deep Learning Libraries.md",
+      "x": -1377.57958984375,
+      "y": -820.140380859375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Deep Learning NLP.md",
+      "x": -1673.419189453125,
+      "y": -569.412109375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Deep Learning.md",
+      "x": -1435.5247802734375,
+      "y": -589.9882202148438
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Derivatives & Fixed Income.md",
+      "x": 1067.608642578125,
+      "y": 1521.5572509765625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/DevOps.md",
+      "x": -2712.9697265625,
+      "y": -1304.2156982421875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Diet & Avoidance.md",
+      "x": -1851.9307861328125,
+      "y": 2247.64404296875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Digital Logic.md",
+      "x": -328.6155090332031,
+      "y": -3096.135009765625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Economic History.md",
+      "x": 3443.639892578125,
+      "y": -1209.45751953125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Embedded Programming.md",
+      "x": -446.18560791015625,
+      "y": -3116.036376953125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Evolutionary Biology.md",
+      "x": -1649.1429443359375,
+      "y": -2860.402587890625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Facehacking.md",
+      "x": -2196.39111328125,
+      "y": 1524.4366455078125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Functional Analysis.md",
+      "x": 1052.4971923828125,
+      "y": -3416.00341796875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/General Relativity.md",
+      "x": 604.2521362304688,
+      "y": -3761.606201171875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Generative Learning.md",
+      "x": -1564.279052734375,
+      "y": -520.15771484375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Genetics.md",
+      "x": -2076.93798828125,
+      "y": -2803.420654296875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Girl Logistics.md",
+      "x": -2129.014404296875,
+      "y": 2093.52197265625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Go.md",
+      "x": -3124.037109375,
+      "y": -805.5106201171875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Graph Learning.md",
+      "x": -1466.50146484375,
+      "y": -446.614013671875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Graph Theory.md",
+      "x": 136.22463989257812,
+      "y": -3136.384521484375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/HTML & CSS.md",
+      "x": -2588.42919921875,
+      "y": -866.922119140625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Health.md",
+      "x": -1742.82568359375,
+      "y": 2157.934326171875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/History.md",
+      "x": 3504.13818359375,
+      "y": -1044.8792724609375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Immunology.md",
+      "x": -1826.6258544921875,
+      "y": -2652.789794921875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Information Theory.md",
+      "x": -426.8099670410156,
+      "y": -3380.2939453125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Interpretable ML.md",
+      "x": -1497.840576171875,
+      "y": -49.141693115234375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Java.md",
+      "x": -2489.210693359375,
+      "y": -802.1710205078125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/JavaScript.md",
+      "x": -2318.844482421875,
+      "y": -945.2169189453125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Kafka.md",
+      "x": -2811.758544921875,
+      "y": -954.87548828125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Linear Algebra.md",
+      "x": 564.8145751953125,
+      "y": -3172.085205078125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Linear Regression (L.S).md",
+      "x": 2075.6513671875,
+      "y": -2332.72021484375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Linux.md",
+      "x": -2698.62109375,
+      "y": -1449.6854248046875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Measure Theory.md",
+      "x": -529.6952514648438,
+      "y": -2042.355712890625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Metacognition (Ovr.).md",
+      "x": -2284.83349609375,
+      "y": 1889.23388671875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Molecular Biology.md",
+      "x": -1924.1004638671875,
+      "y": -2939.188232421875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Native Dev.md",
+      "x": -2999.1962890625,
+      "y": -943.4434814453125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Neuroscience.md",
+      "x": -2039.7882080078125,
+      "y": -2914.07958984375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Number Theory.md",
+      "x": 139.99900817871094,
+      "y": -3016.618408203125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Numerical Analysis.md",
+      "x": -1993.9674072265625,
+      "y": -1424.4617919921875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/OCaml.md",
+      "x": -2907.60302734375,
+      "y": -815.9769897460938
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Operating Systems.md",
+      "x": -2057.62646484375,
+      "y": -1583.6141357421875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Organic Chemistry.md",
+      "x": -2473.940673828125,
+      "y": -2816.505126953125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Pharmacology.md",
+      "x": -2155.29248046875,
+      "y": -2716.114990234375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Philosophy.md",
+      "x": 3600.572998046875,
+      "y": -758.9669799804688
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Physiology.md",
+      "x": -1939.3720703125,
+      "y": -2615.9140625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Politics.md",
+      "x": 3740.52001953125,
+      "y": -828.8714599609375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Portfolio Management.md",
+      "x": 2131.03369140625,
+      "y": 1244.53564453125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Python (Web Dev).md",
+      "x": -2377.195068359375,
+      "y": -841.2459106445312
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Python.md",
+      "x": -3014.747802734375,
+      "y": -767.1708984375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Quant Libraries (Tools).md",
+      "x": 582.0335693359375,
+      "y": 2151.5048828125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Quantum Mechanics.md",
+      "x": -16.389623641967773,
+      "y": -3767.5244140625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Radio Frequency.md",
+      "x": -308.059326171875,
+      "y": -3395.836181640625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Real Analysis.md",
+      "x": -252.03822326660156,
+      "y": -2273.181640625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Reinforcement Learning.md",
+      "x": -1314.53515625,
+      "y": -677.82958984375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Retail Analytics.md",
+      "x": -1090.2227783203125,
+      "y": -315.537841796875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Rust.md",
+      "x": -3159.970703125,
+      "y": -1015.750244140625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Signal Processing.md",
+      "x": -554.5482177734375,
+      "y": -3382.60302734375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Signals & Systems.md",
+      "x": -680.4398803710938,
+      "y": -3474.960205078125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Snowflake.md",
+      "x": -2709.105712890625,
+      "y": -893.4608764648438
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Special Relativity.md",
+      "x": 253.2944793701172,
+      "y": -3669.83203125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Statistical Mechanics.md",
+      "x": 217.9709014892578,
+      "y": -3880.138427734375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Stochastic Processes & Calculus.md",
+      "x": -766.4077758789062,
+      "y": -2208.673095703125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Supervised Learning.md",
+      "x": -1443.2554931640625,
+      "y": 84.38483428955078
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Survival Analysis.md",
+      "x": 1838.51220703125,
+      "y": -1963.02490234375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Systematic Trading (Concept-Based).md",
+      "x": 2600.482177734375,
+      "y": 723.060546875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Systematic Trading (Practice-Based).md",
+      "x": 1903.072265625,
+      "y": 480.9349670410156
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Systematic Trading Fundamentals.md",
+      "x": 1907.0216064453125,
+      "y": 1000.70556640625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Thermodynamics.md",
+      "x": -133.9314727783203,
+      "y": -3134.97314453125
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Time Series.md",
+      "x": 1602.8133544921875,
+      "y": -1566.1971435546875
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Topology.md",
+      "x": 353.31866455078125,
+      "y": -2921.644287109375
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Unsupervised Learning.md",
+      "x": -1007.276611328125,
+      "y": 136.14149475097656
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Virology.md",
+      "x": -2043.7723388671875,
+      "y": -2673.353515625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Web Dev SWE Concepts.md",
+      "x": -2352.863037109375,
+      "y": -1059.7978515625
+    },
+    {
+      "id": "Topics/Sub(sub)topics/Web Dev.md",
+      "x": -2473.056884765625,
+      "y": -970.5816040039062
+    },
+    {
+      "id": "Topics/Topics/Biology.md",
+      "x": -1931.25732421875,
+      "y": -2779.0400390625
+    },
+    {
+      "id": "Topics/Topics/Chemistry.md",
+      "x": -2339.877685546875,
+      "y": -2746.2353515625
+    },
+    {
+      "id": "Topics/Topics/Computer Science.md",
+      "x": -2567.944580078125,
+      "y": -1194.57470703125
+    },
+    {
+      "id": "Topics/Topics/Electrical Engineering.md",
+      "x": -350.9393005371094,
+      "y": -3251.57958984375
+    },
+    {
+      "id": "Topics/Topics/Humanities.md",
+      "x": 3613.849365234375,
+      "y": -907.556396484375
+    },
+    {
+      "id": "Topics/Topics/Machine Learning.md",
+      "x": -1292.9373779296875,
+      "y": -370.1899719238281
+    },
+    {
+      "id": "Topics/Topics/Mathematics.md",
+      "x": 275.0457763671875,
+      "y": -3093.283935546875
+    },
+    {
+      "id": "Topics/Topics/Mechanical Engineering.md",
+      "x": 89.69111633300781,
+      "y": -3322.90625
+    },
+    {
+      "id": "Topics/Topics/Personal.md",
+      "x": -2004.400390625,
+      "y": 1881.780517578125
+    },
+    {
+      "id": "Topics/Topics/Physics.md",
+      "x": -49.51704788208008,
+      "y": -3261.45458984375
+    },
+    {
+      "id": "Topics/Topics/Quant.md",
+      "x": 1215.9818115234375,
+      "y": 1593.72705078125
+    },
+    {
+      "id": "Topics/Topics/Statistics.md",
+      "x": 1826.87255859375,
+      "y": -2105.199951171875
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}
