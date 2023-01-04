@@ -1,2 +1,2 @@
 Type: #subtopic
-Topic: [[CS Fundamentals]]
+Topic: [[Scientific Computing]]

@@ -3,8 +3,6 @@ Subtopic: [[Health]]
 Topic: Personal
 
 ----
-A list of foods to cover at least once a week. 
-
 # Fruits
 
 **Drupes** - Olives, Cacao (chocolate)

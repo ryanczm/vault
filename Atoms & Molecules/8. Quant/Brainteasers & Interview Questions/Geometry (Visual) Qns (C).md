@@ -1,5 +1,5 @@
-Type: #atom
-Atom: [[Logic Qns (C)]]
+fType: #atom
+Atom: [[Quantitative & Logic Qns (CZ]]
 Topic: Quant 
 Level: #Exploratory 
 

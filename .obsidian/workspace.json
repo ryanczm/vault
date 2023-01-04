@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f83c3d1f629e050d",
+        "id": "77dfe411281eaf89",
         "type": "tabs",
         "children": [
           {
-            "id": "4cd360857920ce58",
+            "id": "f164a2fec69cc06a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,19 +18,30 @@
             }
           },
           {
-            "id": "2b7add7c9cde8ab5",
+            "id": "cd0d8e83b2ccf0aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/General Probability Qns (C).md",
+                "file": "Atoms & Molecules/8. Quant/Finance/Random Walk, GBM & Wiener Process (W).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8351771b4d8634a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atoms & Molecules/8. Quant/Finance/BSM Pricing Formulae (H).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Incom",
+                "query": "Diet",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 396.5
   },
   "right": {
     "id": "2468ce0511ed177b",
@@ -88,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/General Probability Qns (C).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/General Probability Qns (C).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -116,17 +124,28 @@
     "width": 272.5,
     "collapsed": true
   },
-  "active": "2b7add7c9cde8ab5",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "f164a2fec69cc06a",
   "lastOpenFiles": [
-    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Combinatorics Qns (C).md",
-    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/General Probability Qns (C).md",
-    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Coin Toss & Recursion Qns (C).md",
-    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Pure Logic Qns (CZ).md",
-    "Atoms & Molecules/4. Statistics/Classical Statistics/Inclusion-Exclusion Principle (B).md",
-    "Atoms & Molecules/4. Statistics/Classical Statistics/Randomness & Counting (B).md",
-    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/(Conditional) Probability & Bayes Theorem Qns (C).md",
-    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Expected Value-Strategy Game Qns (C).md",
-    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Numerical Pattern Questions (CZ).md",
-    "Atoms & Molecules/13. Personal/Facehacking/Facial Bone Growth Conjecture (Mewing).md"
+    "Atoms & Molecules/8. Quant/Finance/Random Walk, GBM & Wiener Process (W).md",
+    "Atoms & Molecules/8. Quant/Finance/Forward Pricing (N).md",
+    "Atoms & Molecules/8. Quant/Finance/BSM Pricing Formulae (H).md",
+    "Atoms & Molecules/8. Quant/Finance/Binomial Model (W).md",
+    "Atoms & Molecules/8. Quant/Finance/BSM (H).md",
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Yield Curve Bond Strat Qns (Hard) (C).md",
+    "Atoms & Molecules/8. Quant/Brainteasers & Interview Questions/Stock Qns (C).md",
+    "Atoms & Molecules/8. Quant/Finance/Elementary Stochastic Calculus for Dummies (W).md",
+    "Atoms & Molecules/8. Quant/Finance/Properties of the WP (BM) for Dummies (W).md",
+    "Atoms & Molecules/8. Quant/Finance/Binomial Tree Valuation (W, H).md"
   ]
 }

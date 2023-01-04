@@ -5,3 +5,11 @@ Status: #incomplete
 Level: #Exploratory 
 
 ----
+# Overview
+
+# Expected Value of Max & Min
+
+# Correlation of Max & Min
+
+# Random Ants
+

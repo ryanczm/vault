@@ -1,5 +1,5 @@
 Type: #atom
-Atom: [[Calculus & Linear Algebra Qns (Z)]]
+Atom: [[Technical Math Qns (Z)]]
 Topic: Quant 
 Status: #incomplete 
 Level: #Exploratory 

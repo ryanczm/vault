@@ -1,13 +1,43 @@
 Type: #atom
-Atom: [[Probability & Stats Qns (C)]]
+Atom: [[Probability & Stats Qns (CZ)]]
 Topic: Quant 
-Status: #inprogress
 Level: #Exploratory 
 
 ----
 # Overview 
 
 Combinatorics questions are often solved by applying binomial coefficient to find the number of possible subgroups from a group.
+
+# Poker Hands
+
+Q: You have a standard deck (13 x 4 sets). A hand is 5 cards. What is probability of 4-of-a-kind (AAAAD), full house (AAADD), two pairs (AABBD), where D is a different and A and B are same. Note same means same number, not suits. Somehow color is disregarded (?).
+A: 
+Hands with 4-of-a-kind - 13 choices for first 4 and 48 choices for remaining so $13\cdot 48=624$.
+Hands with full house - 13 choices for the first 3 and $\binom{4}{3}$ suits, and 12 for the pair and $\binom{4}{2}$, so we have $13 \cdot B(4,3) \cdot 12 \cdot B(4,2)=3744$
+Hands with two pairs - $\binom{13}{2} \cdot \binom{4}{2} \cdot \binom{4}{2} \cdot 44=123552$. 13C2 is choosing values of 2 pairs, 4C2 twice is for the suits of the pairs, and 44 is the remaining choice (52 - 4 - 4).
+Divide these combinations by $B(52,5)$ - the number of distinct hands.
+
+# Hopping Rabbit
+
+Q: A rabbit can climb up a flight of $n$ stairs with a hop of 2 stairs at a time or 1 stair. How many ways can he do it?
+A: This is a recurrence relation that is related to a Fibonacci sequence: $S(n)=S(n-1)+S(n-2)$. The number of ways to climb of $n$ stairs is the sum of ways to climb up $n-1$ stairs and $n-2$ stairs. Why? At the end, you either climb up with a 1-hop or 2-hop. Clearly, $S(1)=1$. $S(2)=2$. Just keep going. 
+
+# Screwy Pirates 2
+
+Q: There are 11 pirates left from Screwy Pirates 1. These guys put their loot in a special safe, only $\geq 6$ pirates can open it.  So $5$ pirates cannot but $6$ can. So they ask locksmith to put locks on safe. One lock can be opened by multiple keys but not the other way round. Pirates can carry more than 1 key.
+A: I can't quite get the logic but I'll just memorize it. For each randomly selected group of 5, there must be some special lock the other 6 have (so 5 cannot open, but 5+1 can). This is $B(11,5)=11!/(5!/6!)=462$ locks. For each lock, there are 6 keys (why?). So each pirate must have $462\cdot 6/11=252$ keys.
+
+# Chess Tournament [!]
+
+# Application Letters (Inclusion Exclusion) - Montmort's Matching Problem [!]
+
+Q: There are 5 cover letters to be put in 5 labelled envelopes. If we randomly put cover letters into envelopes, what is the probability all cover letters are put in the wrong envelope?
+A: This is the complement of the probability at least one cover letter is in the right envelope. This is the union of events that letter $i$ has the correct envelope: $P(\bigcup_i^5 e_i)$. We can apply inclusion exclusion to get our answer. For example, $P(e_i, e_2)=1/5 \cdot 1/4$ and there are $B(5,2)$ ways to select 2 elements. The final answer is $$1-(1-1/2!+1/3!+1/4!+1/5!)=11/30$$
+This question can also be done with derangements (this is the probability of a derangement).
+
+# 100th Digit (Binomial Theorem) [!]
+
+# Cubic of Integer (Binomial Theorem) [!]
 
 # Guests & Room Allocation Qn (1.34)
 
@@ -23,8 +53,6 @@ A: This is actually a number of parameters in the covariance matrix question. If
 
 Q: This question is from Blitzstein 4.4.5. In a room witn $n$ people, what is the expected number of distinct birthdays amongst them?
 A: **Complements:** p(j day is represented) = 1 - p(no one born on day j), then we take **expectation** (365 days).$$365(1-(\frac{364}{365})^n)$$
-
-
 # Expected Number of Pairs of People with same Birthday Qn (1.36)
 
 Q: Same party with 25 people, expected number of pairs of people with same birthday?
@@ -45,3 +73,7 @@ A: We use a 'stars and bars' method. Essentially, you insert 4 bars into 20 star
 Q: **Very tough question!** You are making choc chip cookies. You add $N$ chips to the dough. Then randomly split dough into 100 equal cookies. What value of $N$ ensures at least 90% of cookies have at least one chip?
 A: This can be answered with the **inclusion-exclusion principl**e - used to calculate a union. If $p$ is the probability all cookies have >1 chip, then $1-p$ is the probability of event at least some cookies have no chips. This event is the union of each cookie having no chips: $1-p=p(\bigcup_{i=1}^{k}A_i)$.
 
+# Probability of Difference of Highest and Lowest Numbers of 3 Fair D6 Rolls Qn (4.49)
+
+Q: You are going to roll three fair dice. What is the probability that the difference between the highest and lowest numbers showing is exactly four?
+A: There are $216 =(6^3)$ outcomes. We need $p([6,2] \cup [5,1])$. For the first case, our unordered outcomes are $226,236,246,256,266$. The first outcome is permuted 3 ways, the second, third, fourth 6 ways and last 3 ways. That gives us $1(3)+3(6)+1(3)=24$ ways. Do the same for the $5,1$ case.

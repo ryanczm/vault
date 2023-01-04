@@ -1,5 +1,5 @@
 Type: #atom
-Atom: [[Logic Qns (C)]]
+Atom: [[Quantitative & Logic Qns (CZ]]
 Topic: Quant
 Level: #Exploratory 
 
@@ -51,6 +51,16 @@ A: First quant takes random number, adds salary to it, gives to second. Second a
 Q: Measure 45m with two ropes. A rope takes 1hr to burn if 1 end is lit.
 A: Have to assume burning both ends cuts remaining time by half. So light one end of 1 rope and burn both ends of 1 rope > 30m After that, burn remaining end.
 
+# Counterfeit Coins I 
+
+Q: 10 bags of 100 identical coins each bag. In all bags but one, each coin weighs 10g. In counterfeit bag, all coins weigh either 9 or 11g. Using one single weigh of a digital scale, identify fake bag.
+A: Take 1 coin from first bag, 2 from second, ... 10 from tenth bag. You have 55 coins. Weigh. If no counterfeit they should be 550g. The $i$ bag is counterfeit, so weight will be $550 \pm i$. 
+
+# Glass Balls
+
+Q: You are holding two glass balls in a 100 story building. If ball is thrown out of window, it will not break if floor is less than X but break if floor is equal or greater to X?
+A: This is tricky. We suppose a strategy with $N$ throws. We throw first ball from $N^{th}$ floor, if it breaks, we start from 1 to N upwards and test the second ball. If it doesn't break, we go up by $N-1$ floors and repeat. The number of floors this lets us cover is $N+(N-1) + \cdots + 1=N(N+1)/2 \geq 100$ and so $N=14$.
+
 # Lightbulbs & Switches Qn (1.28)
 
 Q: Similar to Green book's lightbulb question, but with 3 lightbulbs instead of 4.
@@ -71,8 +81,3 @@ A: You should switch. If you don't you have $1/2$ chance of right door. You win 
 
 Q: Now instead of the host picking an empty door, a member of audience randomly picks one of the 2 remaining doors. It is empty. Do you still switch to the remaining door?
 A: Assuming the audience member has no knowledge, then it is 50-50, in that case, we are indifferent to switching.
-
-# Triangle & Stick Breaking Problem (4.40)
-
-Q: Take a stick and randomly break it into three pieces (2 random breaks on stick). What is probability you can form triangle from pieces?
-A: The trick is triangle inequality: $x+y \geq z$. A stick is partitioned into $(x,y,1-x-y)$. Non-negativity implies each piece is positive. Rearrange to get $x+y \leq 1$. Now, this forms a triangle in $x,y$ plane, from $y=1$, $x=1$. Now, applying triangle inequality: we require $x\geq 1/2$, $y \geq 1/2$ and $x+y \geq 1/2$. This forms a mini triangle within the triangle with $1/4$ area. So probability is $1/4$. This solution is gimmicky. The actual solution in book is for an $n$-edge polygon.

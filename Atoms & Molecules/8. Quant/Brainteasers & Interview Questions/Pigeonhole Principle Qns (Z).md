@@ -1,5 +1,5 @@
 Type: #atom
-Atom: [[Logic Qns (C)]]
+Atom: [[Quantitative & Logic Qns (CZ]]
 Topic: Quant
 Level: #Exploratory 
 
@@ -31,7 +31,9 @@ A: This makes no sense to me because ants can climb on top of each other. The pr
 # Counterfeit Coins II Question [!]
 
 
+# Pigeonhole Coin Toss Qn (4.46)
 
-
+Q: A coin is tossed until either 3 heads or 3 tails (can be non-consecutive) are obtained. What is the expected number of coin tosses?
+A: This may seem like a tricky recursion problem, but is actually a pigeonhole principle problem. Min is 3, max is 5. So it is either 3,4,5 tosses.
 
 
